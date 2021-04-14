@@ -161,7 +161,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; (ii)  that is capable of being transferred between persons without an intermediary party; and
 
-&ensp; &ensp; &ensp; &ensp; (iii)  that does not represent a financial interest in a company, partnership, or fund, including an ownership or debt interest, revenue share, entitlement to any interest or dividend payment.
+&ensp; &ensp; &ensp; &ensp; (iii)  that does not represent a financial interest in a centralized company, partnership, or fund, including an ownership or debt interest, revenue share, entitlement to any interest or dividend payment.
 
 Proposed Exchange Act Rule 3a1-2.  Exemption from the definition of “exchange” under Section 3(a)(1) of the Act.
 
