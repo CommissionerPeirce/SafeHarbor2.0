@@ -147,7 +147,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; The definition is not meant to preclude network alterations achieved through a predetermined procedure in the source code that uses a consensus mechanism and approval of network participants.
 
-&ensp; &ensp; (3)  *Related Person.*  Related person means the Initial Development Team, directors or advisors to the Initial Development Team, and any immediately family member of such persons.  
+&ensp; &ensp; (3)  *Related Person.*  Related person means the Initial Development Team, directors or advisors to the Initial Development Team, and any immediate family member of such persons.  
 
 &ensp; &ensp; (4)  *Token.*  A Token is a digital representation of value or rights
 
