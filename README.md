@@ -31,7 +31,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; (5)  An exit report is filed in accordance with paragraph (f) of this section.  
 
-**(b)  Disclosure.**  The Initial Development Team must provide the information described below on a freely accessible public website.  
+**(b)  Disclosure.**  The Initial Development Team must provide the information described below on a freely accessible public website, and must link to this information from any websites, software, and services related to the network and controlled by The Initial Development Team.  
 
 &ensp; &ensp; (1)  *Initial Disclosures.*  Prior to filing a notice of reliance on the safe harbor, provide the following information.  Any material changes to the information required below must be provided on the same freely accessible public website as soon as practicable after the change.
 
