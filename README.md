@@ -22,7 +22,7 @@ _By the conclusion of the three-year period, the Initial Development Team must d
 
 **(a) Exemption.** Except as expressly provided in paragraph (d) of this section, the Securities Act of 1933 does not apply to any offer, sale, or transaction involving a Token if the following conditions are satisfied by the Initial Development Team, as defined herein.
 
-    (1) The Initial Development Team intends for the network on which the Token functions to reach Network Maturity within three years of the date of the first sale of Tokens;
+    (1) The Initial Development Team intends for the network on which the Token functions to reach Network Maturity within three years of the date of the first sale of Tokens \[note: needs to address forks of coins and gaming of the safe harbour by way of network forks or chain migration\];
 
     (2) Disclosures required under paragraph (b) of this section must be made available on a freely accessible public website.
 
