@@ -163,7 +163,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; (iii)  that does not represent a financial interest in a company, partnership, or fund, including an ownership or debt interest, revenue share, entitlement to any interest or dividend payment.
 
-Proposed Exchange Act Rule 3a1-2.  Exemption from the definition of “exchange” under Section 3(a)(1) of the Act.
+**Proposed Exchange Act Rule 3a1-2.  Exemption from the definition of “exchange” under Section 3(a)(1) of the Act.**
 
 An organization, association, or group of persons shall be exempt from the definition of the term “exchange” to the extent such organization, association, or group of persons constitutes, maintains, or provides a marketplace or facilitates bringing together purchasers and sellers of Tokens satisfying the conditions of Rule 195 of the Securities Act, or otherwise performs with respect to such Tokens the functions commonly performed by a stock exchange as that term is generally understood.
 
