@@ -35,7 +35,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; (1)  *Initial Disclosures.*  Prior to filing a notice of reliance on the safe harbor, provide the following information.  Any material changes to the information required below must be provided on the same freely accessible public website as soon as practicable after the change.
 
-&ensp; &ensp; &ensp; &ensp; (i)  *Source Code.*  A text listing of commands to be compiled or assembled into an executable computer program used by network participants to access the network, amend the code, and confirm transactions.
+&ensp; &ensp; &ensp; &ensp; (i)  *Source Code.*  The preferred form of the Software for making modifications to it, including all files needed to generate, install, and run the executable computer program used by network participants to access the network or affirm transactions (the "Software"), and to modify the Software, including scripts to control those activities.  However, Source Code does not include the Software's system libraries, or general-purpose tools or generally available free programs which are used unmodified in performing those activities but which are not part of the Software.  The Source Code need not include anything that users can regenerate automatically from other parts of the Source Code.
 
 &ensp; &ensp; &ensp; &ensp; (ii)  *Transaction History.*  A narrative description of the steps necessary to independently access, search, and verify the transaction history of the network.    
 
