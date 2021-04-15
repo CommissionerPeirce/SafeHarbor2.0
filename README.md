@@ -146,11 +146,13 @@ _By the conclusion of the three-year period, the Initial Development Team must d
 
         (i) Not economically or operationally controlled and is not reasonably likely to be economically or operationally controlled or unilaterally changed by any single person, entity, or group of persons or entities under common control; or
 
-        (ii) Functional, as demonstrated by the holders’ use of Tokens for the transmission and storage of value on the network, the participation in an application running on the network, or otherwise in a manner consistent with the utility of the network,
+        (ii) Functional, as demonstrated by the holders’ use of Tokens for the transmission and storage of value on the network, the participation in an application running on the network, or otherwise in a manner consistent with the utility of the network (together "Approved Network Functionality"),
 
-except that networks for which the Initial Development Team owns more than 20% of Tokens or owns more than 20% of the means of determining network consensus cannot satisfy this condition.
+except that:
 
-        The definition is not meant to preclude network alterations achieved through a predetermined procedure in the source code that uses a consensus mechanism and approval of network participants.
+        (iii) networks for which the Initial Development Team owns more than 20% of Tokens or owns more than 20% of the means of determining network consensus cannot satisfy this definition; and 
+
+        (iv) the definition is not meant to preclude network alterations achieved through a predetermined procedure in the source code that uses a consensus mechanism and approval of network participants.
 
     (3) _Related Person._ Related person means the Initial Development Team, directors or advisors to the Initial Development Team, and any immediate family member of such persons.
 
@@ -162,23 +164,31 @@ except that networks for which the Initial Development Team owns more than 20% o
 
             (B) has transactions confirmed through an independently verifiable process; and
 
-            (C) cannot be modified;
+            (C) cannot be modified except through the consensus mechanism upon which the Token was established; and
 
-        (ii) that is capable of being transferred between persons without an intermediary party; and
+        (ii) that is capable of being transferred between persons without an intermediary party.
 
-        (iii) that does not represent a financial interest in a company, partnership, or fund, including an ownership or debt interest, revenue share, entitlement to any interest or dividend payment.
+**Proposed Exchange Act Rule 3a1-2. Exemption from the definition of “exchange” under Section 3(a)(1) of the Act.**
 
-Proposed Exchange Act Rule 3a1-2. Exemption from the definition of “exchange” under Section 3(a)(1) of the Act.
+An organization, association, or group of persons shall be exempt from the definition of the term “exchange” if the dominant purpose of such organization, association, or group of persons is to: 
 
-An organization, association, or group of persons shall be exempt from the definition of the term “exchange” to the extent such organization, association, or group of persons constitutes, maintains, or provides a marketplace or facilitates bringing together purchasers and sellers of Tokens satisfying the conditions of Rule 195 of the Securities Act, or otherwise performs with respect to such Tokens the functions commonly performed by a stock exchange as that term is generally understood.
+        (i) constitute, maintain or provide a marketplace; or
+
+        (ii) facilitate bringing together purchasers and sellers of Tokens, 
+
+satisfying the conditions of Rule 195 of the Securities Act, or, 
+
+        (iii) otherwise perform with respect to such Tokens the functions commonly performed by a stock exchange as that term is generally understood. 
+
+Such exemption will also apply to any to any software on the Token's network that is designed to operate in a comparable manner to exchanges.
 
 **Proposed Exchange Act Rule 3a4-2. Exemption from the definition of “broker” for a person engaged in a Token transaction.**
 
-A person is exempt from the definition of the term “broker” to the extent it engages in the business of effecting transactions in Tokens satisfying the conditions of Rule 195 of the Securities Act of 1933 for the account of others.
+A person is exempt from the definition of the term “broker” to the extent he or she engages in the business of effecting transactions in Tokens satisfying the conditions of Rule 195 of the Securities Act of 1933 for the account of others. Such exemption will also apply to to any software on the Token's network that is designed to operate in a comparable manner to brokers.
 
 **Proposed Exchange Act Rule 3a5-4. Exemption from the definition of “dealer” for a person engaged in a Token transaction.**
 
-A person is exempt from the definition of the term “dealer” to the extent it engages in the business of buying and selling Tokens satisfying the conditions of Rule 195 of the Securities Act of 1933 for such person’s own account through a broker or otherwise.
+A person is exempt from the definition of the term “dealer” to the extent it engages in the business of buying and selling Tokens satisfying the conditions of Rule 195 of the Securities Act of 1933 for such person’s own account through a broker or otherwise. Such exemption will also apply to any software on the Token's network that is designed to operate in a comparable manner to dealers.
 
 **Proposed Exchange Act Rule 12h-1(j). Exemptions from registration under Section 12(g) of the Act.**
 
