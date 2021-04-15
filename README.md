@@ -123,7 +123,9 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  Contact information for Token holders to communicate with the Initial Development Team.  
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  A statement acknowledging that the Initial Development team will file a Form 10 to register under Section 12(g) of the Securities Exchange Act of 1934 the Tokens as a class of securities within 120 days of the filing of the exit report.      
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  A statement acknowledging that the Initial Development team will file a Form 10 to register under Section 12(g) of the Securities Exchange Act of 1934 the Tokens as a class of securities within 120 days of the filing of the exit report.     
+
+&ensp; &ensp; &ensp; &ensp; (iv)  The url of the website where disclosure required under paragraph (b) may be accessed.
 
 &ensp; &ensp; (2)  The exit report must be filed with the Commission in electronic format through EDGAR in accordance with EDGAR rules set forth in Regulation S-T.
 
