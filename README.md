@@ -127,6 +127,8 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; (2)  The exit report must be filed with the Commission in electronic format through EDGAR in accordance with EDGAR rules set forth in Regulation S-T.
 
+&ensp; &ensp; (3)  For the purposes of this section, the outside counsel must be a natural person who has not at any time been a member of the Initial Development Team, an employee of a member of the Initial Development Team, or a Related Person.
+
 **(g)  Transition Period for Trading Platforms.**  No trading platform shall be subject to the requirements of Section 6 of the Exchange Act due to activity related to the trading of Tokens subject to a determination pursuant to paragraph (f)(iii) of this section, provided that the trading platform prohibits such trading within six months of such determination. 
 
 **(h)  Tokens Previously Sold.**  An Initial Development Team that prior to the effective date of this rule sold Tokens pursuant to a valid exemption from registration or sold in violation of Section 5 of the Securities Act of 1933 as determined in a Commission order pursuant to Section 8A of the Securities Act of 1933 that does not identify any other violations of the federal securities laws may rely on this section if the conditions of paragraph (a) are satisfied.  The notice of reliance required by paragraph (c) of this section must be filed as soon as practicable. 
