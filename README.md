@@ -89,7 +89,11 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 **(d)  Limitation.**  The exemption provided in paragraph (a) of this section does not apply to the provisions of Section 12(a)(2) or Section 17 of the Securities Act of 1933.
 
-**(e)  Duration of Exemption.**  The relief provided by this section will expire three years from the date the notice of reliance was filed.  
+**(e)  Duration of Exemption.**  The relief provided by this section will expire the later of:
+
+&ensp; &ensp; (1)  Three years from the date of the first sale of Tokens; or
+
+&ensp; &ensp; (2)  Three years from the effective date of this rule.  
 
 **(f)  Exit Report.**  An exit report must be filed no later than the date of expiration as calculated in paragraph (e) of this section.  
 
