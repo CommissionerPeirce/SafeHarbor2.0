@@ -150,7 +150,7 @@ _By the conclusion of the three-year period, the Initial Development Team must d
 
         The definition is not meant to preclude network alterations achieved through a predetermined procedure in the source code that uses a consensus mechanism and approval of network participants.
 
-    (3) _Related Person._ Related person means the Initial Development Team, directors or advisors to the Initial Development Team, and any immediately family member of such persons.
+    (3) _Related Person._ Related person means the Initial Development Team, directors or advisors to the Initial Development Team, and any immediate family member of such persons.
 
     (4) _Token._ A Token is a digital representation of value or rights
 
