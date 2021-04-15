@@ -137,7 +137,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 **(k)  Definitions.**
 
-&ensp; &ensp; (1)  *Initial Development Team.*  Any person, group of persons, or entity that provides the essential managerial efforts for the development of the network prior to reaching Network Maturity and makes the initial filing of a notice of reliance on this safe harbor.
+&ensp; &ensp; (1)  *Initial Development Team.*  Any person, group of persons, or entity that provides the essential managerial efforts for the development of the network prior to reaching Network Maturity. The Initial Development team is responsible for the initial filing of a notice of reliance on this safe harbor, and for maintaining the public Disclosure.
 
 &ensp; &ensp; (2)  *Network Maturity.*  Network Maturity is the status of a decentralized or functional network that is achieved when the network is either:
 
