@@ -140,13 +140,15 @@ _By the conclusion of the three-year period, the Initial Development Team must d
 
 **(k) Definitions.**
 
-    (1) _Initial Development Team._ Any person, group of persons, or entity that provides the essential managerial efforts for the development of the network prior to reaching Network Maturity and makes the initial filing of a notice of reliance on this safe harbor.
+    (1) _Initial Development Team._ Any person, group of persons, or entity that provides the essential managerial efforts for the development of the network prior to reaching Network Maturity.
 
     (2) _Network Maturity._ Network Maturity is the status of a decentralized or functional network that is achieved when the network is either:
 
-        (i) Not economically or operationally controlled and is not reasonably likely to be economically or operationally controlled or unilaterally changed by any single person, entity, or group of persons or entities under common control, except that networks for which the Initial Development Team owns more than 20% of Tokens or owns more than 20% of the means of determining network consensus cannot satisfy this condition; or
+        (i) Not economically or operationally controlled and is not reasonably likely to be economically or operationally controlled or unilaterally changed by any single person, entity, or group of persons or entities under common control; or
 
-        (ii) Functional, as demonstrated by the holders’ use of Tokens for the transmission and storage of value on the network, the participation in an application running on the network, or otherwise in a manner consistent with the utility of the network.
+        (ii) Functional, as demonstrated by the holders’ use of Tokens for the transmission and storage of value on the network, the participation in an application running on the network, or otherwise in a manner consistent with the utility of the network,
+
+except that networks for which the Initial Development Team owns more than 20% of Tokens or owns more than 20% of the means of determining network consensus cannot satisfy this condition.
 
         The definition is not meant to preclude network alterations achieved through a predetermined procedure in the source code that uses a consensus mechanism and approval of network participants.
 
