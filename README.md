@@ -100,7 +100,7 @@ _By the conclusion of the three-year period, the Initial Development Team must d
 
         (i) If Network Maturity has been reached for a decentralized network, an analysis by outside counsel must be provided. The analysis must include:
 
-            (A) A description of the extent to which decentralization has been reached across a number of dimensions, including voting power, development efforts, and network participation. If applicable, the description must include:
+            (A) A description of the extent to which decentralization has been reached, including in relation to voting power, development efforts, and network participation. If applicable, the description must include:
 
                 (1) Examples of material engagement on network development and governance matters by parties unaffiliated with the Initial Development Team.
 
@@ -142,9 +142,9 @@ _By the conclusion of the three-year period, the Initial Development Team must d
 
     (1) _Initial Development Team_ means any person, group of persons, or entity that provides the essential managerial efforts for the development of the network prior to reaching Network Maturity.
 
-    (2) _Network Maturity_ means the status of a decentralized or functional network that is achieved when a Token's network is either:
+    (2) _Network Maturity_ means the status of a Token's network that is achieved when such network is:
 
-        (i) free of economic and operational control by any single person, entity, or group of persons or entities under common control, where such freedom is not reasonably likely to change; or
+        (i) decentralized, meaning free of economic or operational control by any single person, entity, or group of persons or entities under common control for the foreseeable future; and
 
         (ii) functional, as demonstrated by the holders’ use of Tokens for the transmission and storage of value on the network, the participation in an application running on the network, or otherwise in a manner consistent with the utility of the network,
 
