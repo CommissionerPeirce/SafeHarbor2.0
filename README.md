@@ -140,25 +140,25 @@ _By the conclusion of the three-year period, the Initial Development Team must d
 
 **(k) Definitions.**
 
-    (1) _Initial Development Team._ Any person, group of persons, or entity that provides the essential managerial efforts for the development of the network prior to reaching Network Maturity.
+    (1) _Initial Development Team_ means any person, group of persons, or entity that provides the essential managerial efforts for the development of the network prior to reaching Network Maturity.
 
-    (2) _Network Maturity._ Network Maturity is the status of a decentralized or functional network that is achieved when the network is either:
+    (2) _Network Maturity_ means the status of a decentralized or functional network that is achieved when a Token's network is either:
 
-        (i) Not economically or operationally controlled and is not reasonably likely to be economically or operationally controlled or unilaterally changed by any single person, entity, or group of persons or entities under common control; or
+        (i) free of economic and operational control by any single person, entity, or group of persons or entities under common control, where such freedom is not reasonably likely to change; or
 
-        (ii) Functional, as demonstrated by the holders’ use of Tokens for the transmission and storage of value on the network, the participation in an application running on the network, or otherwise in a manner consistent with the utility of the network (together "Approved Network Functionality"),
+        (ii) functional, as demonstrated by the holders’ use of Tokens for the transmission and storage of value on the network, the participation in an application running on the network, or otherwise in a manner consistent with the utility of the network,
 
 except that:
 
         (iii) networks for which the Initial Development Team owns more than 20% of Tokens or owns more than 20% of the means of determining network consensus cannot satisfy this definition; and 
 
-        (iv) the definition is not meant to preclude network alterations achieved through a predetermined procedure in the source code that uses a consensus mechanism and approval of network participants.
+        (iv) the definition is not intended to preclude network alterations achieved through a predetermined procedure inherent to the Token network that is subject to a consensus mechanism and approval of network participants.
 
     (3) _Related Person._ Related person means the Initial Development Team, directors or advisors to the Initial Development Team, and any immediate family member of such persons.
 
-    (4) _Token._ A Token is a digital representation of value or rights
+    (4) _Token._ A Token is a digital representation of value or rights that:
 
-        (i) that has a transaction history that:
+        (i) has a transaction history that:
 
             (A) is recorded on a distributed ledger, blockchain, or other digital data structure;
 
@@ -166,11 +166,11 @@ except that:
 
             (C) cannot be modified except through the consensus mechanism upon which the Token was established; and
 
-        (ii) that is capable of being transferred between persons without an intermediary party.
+        (ii) is capable of being transferred between persons without an intermediary party.
 
 **Proposed Exchange Act Rule 3a1-2. Exemption from the definition of “exchange” under Section 3(a)(1) of the Act.**
 
-An organization, association, or group of persons shall be exempt from the definition of the term “exchange” if the dominant purpose of such organization, association, or group of persons is to: 
+An organization, association, or group of persons shall be exempt from the definition of the term “exchange” if the dominant purpose of such organization, association, or group of persons is to:
 
         (i) constitute, maintain or provide a marketplace; or
 
