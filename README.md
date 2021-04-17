@@ -11,7 +11,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 1.  *The analysis of whether a digital asset is offered or sold as a security is not static and does not strictly inhere to the digital asset.  A Token may be offered and sold initially as a security because it is wrapped in a transaction involving an investment contract, but the Token may later be offered and sold outside of an investment contract.  For example, sales of a particular Token likely would not constitute sales of an investment contract if purchasers could no longer reasonably expect a person or group to carry out the essential managerial or entrepreneurial efforts.*
 
-*However, for a network to mature into a functional or decentralized network that is not dependent upon a single person or group to carry out the essential managerial or entrepreneurial efforts, the Tokens must be distributed to and freely tradeable by potential users, programmers, and participants in the network.  The application of the federal securities laws to the primary distribution of Tokens and secondary transactions frustrates the network’s ability to achieve maturity and prevents Tokens sold as a security from functioning as non-securities on the network.*
+*However, for a network (which for the purposes of this proposal may include protocols, decentralized apps, or "dApps") to mature into a functional or decentralized state that is not dependent upon a single person or group to carry out the essential managerial or entrepreneurial efforts, the Tokens must be distributed to and freely tradeable by potential users, programmers, and participants in the network.  The application of the federal securities laws to the primary distribution of Tokens and secondary transactions frustrates the network’s ability to achieve maturity and prevents Tokens sold as a security from functioning as non-securities on the network.*
 
 *Accordingly, this safe harbor is intended to provide Initial Development Teams with a three-year time period within which they can facilitate participation in, and the continued development of, a functional or decentralized network, exempt from the registration provisions of the federal securities laws so long as certain conditions are met.  The safe harbor is designed to protect Token purchasers by requiring disclosures tailored to the needs of the purchasers and preserving the application of the anti-fraud provisions of the federal securities laws to Token distributions by an Initial Development Team relying on the safe harbor.*
 
@@ -43,7 +43,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  Information explaining the launch and supply process, including the number of Tokens to be issued in an initial allocation, the total number of Tokens to be created, the release schedule for the Tokens, and the total number of Tokens outstanding;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  Information detailing the method of generating or mining Tokens, the process for burning Tokens, the process for validating transactions, and the consensus mechanism;
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  Information detailing the method of generating or mining Tokens, the process for burning Tokens, and if applicable, the process for validating transactions, and the consensus mechanism;
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  An explanation of governance mechanisms for implementing changes to the protocol; and
 
