@@ -43,7 +43,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  Information explaining the launch and supply process, including the number of Tokens to be issued in an initial allocation, the total number of Tokens to be created, the release schedule for the Tokens, and the total number of Tokens outstanding;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  Information detailing the method of generating or mining Tokens, the process for burning Tokens, and if applicable, the consensus mechanism and process for validating transactions;
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  Information detailing the method of generating or mining Tokens, the process for burning Tokens, and if applicable, the process for validating transactions, and the consensus mechanism;
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  An explanation of governance mechanisms for implementing changes to the protocol; and
 
