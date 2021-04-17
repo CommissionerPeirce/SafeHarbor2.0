@@ -67,7 +67,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; (viii)  *Sales of Tokens by Initial Development Team.*  Each time a member of the Initial Development Team sells five percent of his or her Tokens as disclosed pursuant to paragraph (b)(1)(vi)(B) of this section over any period of time, state the date(s) of the sale, the number of Tokens sold, and the identity of the seller.   
 
-&ensp; &ensp; &ensp; &ensp; (ix)  *Related Person Transactions.*  A description of any material transaction, or any proposed material transaction, in which the Initial Development Team is a participant and in which any Related Person had or will have a direct or indirect material interest.  The description should identify the nature of the transaction, the Related Person, the basis on which the person is a Related Person, and the approximate value of the amount involved in the transaction.  
+&ensp; &ensp; &ensp; &ensp; (ix)  *Related Person Transactions.*  A description of any material transaction, or any proposed material transaction, in which one or more Related Persons participate and had or will have a direct or indirect material interest.  The description should identify the nature of the transaction, the Related Person, the basis on which the person is a Related Person, and the approximate value of the amount involved in the transaction.  
 
 &ensp; &ensp; &ensp; &ensp; (x)  *Warning to Token Purchasers.*  A statement that the purchase of Tokens involves a high degree of risk and the potential loss of money.  
 
@@ -147,7 +147,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; The definition is not meant to preclude network alterations achieved through a predetermined procedure in the source code that uses a consensus mechanism and approval of network participants.
 
-&ensp; &ensp; (3)  *Related Person.*  Related person means the Initial Development Team, directors or advisors to the Initial Development Team, and any immediately family member of such persons.  
+&ensp; &ensp; (3)  *Related Person.*  Related person means any individual member of the Initial Development Team, any director or advisor to the Initial Development Team, and any immediate family member of such persons. 
 
 &ensp; &ensp; (4)  *Token.*  A Token is a digital representation of value or rights
 
