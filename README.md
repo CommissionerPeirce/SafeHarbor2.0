@@ -9,23 +9,23 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 ***Preliminary Notes:***
 
-1.  *The analysis of whether a digital asset is offered or sold as a security is not static and does not strictly inhere to the digital asset.  A Token may be offered and sold initially as a security because it is wrapped in a transaction involving an investment contract, but the Token may later be offered and sold outside of an investment contract.  For example, sales of a particular Token likely would not constitute sales of an investment contract if purchasers could no longer reasonably expect a person or group to carry out the essential managerial or entrepreneurial efforts.*
+*The analysis of whether a digital asset is offered or sold as a security is not static and does not strictly inhere to the digital asset.  A Token may be offered and sold initially as a security because it is wrapped in a transaction involving an investment contract, but the Token may later be offered and sold outside of an investment contract.  For example, sales of a particular Token likely would not constitute sales of an investment contract if purchasers could no longer reasonably expect a person or group to carry out the essential managerial or entrepreneurial efforts.*
 
-*However, for a network to mature into a functional or decentralized network that is not dependent upon a single person or group to carry out the essential managerial or entrepreneurial efforts, the Tokens must be distributed to and freely tradeable by potential users, programmers, and participants in the network.  The application of the federal securities laws to the primary distribution of Tokens and secondary transactions frustrates the network’s ability to achieve maturity and prevents Tokens sold as a security from functioning as non-securities on the network.*
+*However, for a digital asset to mature into a functional or decentralized asset that is not dependent upon a single person or group to carry out the essential managerial or entrepreneurial efforts, the Tokens must be distributed to and freely tradeable by potential users, programmers, and participants in the Networks.  The application of the federal securities laws to the primary distribution of Tokens and secondary transactions frustrates the Token's ability to achieve maturity and prevents Tokens sold as a security from transitioning to non-securities in the future.*
 
-*Accordingly, this safe harbor is intended to provide Initial Development Teams with a three-year time period within which they can facilitate participation in, and the continued development of, a functional or decentralized network, exempt from the registration provisions of the federal securities laws so long as certain conditions are met.  The safe harbor is designed to protect Token purchasers by requiring disclosures tailored to the needs of the purchasers and preserving the application of the anti-fraud provisions of the federal securities laws to Token distributions by an Initial Development Team relying on the safe harbor.*
+*Accordingly, this safe harbor is intended to provide Initial Development Teams with a three-year time period within which they can facilitate participation in, and the continued development of, a functional or decentralized Token, exempt from the registration provisions of the federal securities laws so long as certain conditions are met.  The safe harbor is designed to protect Token purchasers by requiring disclosures tailored to the needs of the purchasers and preserving the application of the anti-fraud provisions of the federal securities laws to Token distributions by an Initial Development Team relying on the safe harbor.*
 
-*By the conclusion of the three-year period, the Initial Development Team must determine whether Token transactions involve the offer or sale of a security.  Token transactions may not constitute securities transactions if the network has matured to a functioning or decentralized network.  The definition of Network Maturity is intended to provide clarity as to when a Token transaction should no longer be considered a security transaction but the analysis with respect to any particular network will require an evaluation of the particular facts and circumstances.*
+*By the conclusion of the three-year period, the Initial Development Team must determine whether Token transactions involve the offer or sale of a security.  Token transactions may not constitute securities transactions if the essential managerial or entrepreneurial functions of the Initial Development Team have matured to a functional or decentralized state.  The definition of Critical Maturity is intended to provide clarity as to when a Token transaction should no longer be considered a security transaction but the analysis with respect to any particular Token will require an evaluation of the particular facts and circumstances.*
 
-2.  *Rule 195 is not an exclusive safe harbor. A person who does not meet all of the applicable conditions of Rule 195 still may claim any other available exemption under the Securities Act of 1933 for the offer and sale of Tokens.*
+*Rule 195 is not an exclusive safe harbor. A person who does not meet all of the applicable conditions of Rule 195 still may claim any other available exemption under the Securities Act of 1933 for the offer and sale of Tokens.*
 
 **(a)  Exemption.**  Except as expressly provided in paragraph (d) of this section, the Securities Act of 1933 does not apply to any offer, sale, or transaction involving a Token if the following conditions are satisfied by the Initial Development Team, as defined herein.
 
-&ensp; &ensp; (1)  The Initial Development Team intends for the network on which the Token functions to reach Network Maturity within three years of the date of the first sale of Tokens;
+&ensp; &ensp; (1)  The Initial Development Team intends for the Token to reach Critical Maturity within three years of the date of the first sale of Tokens;
 
 &ensp; &ensp; (2)  Disclosures required under paragraph (b) of this section must be made available on a freely accessible public website.
 
-&ensp; &ensp; (3)  The Token must be offered and sold for the purpose of facilitating access to, participation on, or the development of the network.
+&ensp; &ensp; (3)  The Token must be offered and sold for the purpose of facilitating access to, participation on, or the development of the Networks, or any applications that run on those networks.
 
 &ensp; &ensp; (4)  The Initial Development Team files a notice of reliance in accordance with paragraph (c) of this section.
 
@@ -35,11 +35,11 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; (1)  *Initial Disclosures.*  Prior to filing a notice of reliance on the safe harbor, provide the following information.  Any material changes to the information required below must be provided on the same freely accessible public website as soon as practicable after the change.
 
-&ensp; &ensp; &ensp; &ensp; (i)  *Source Code.*  A text listing of commands to be compiled or assembled into an executable computer program used by network participants to access the network, amend the code, and confirm transactions.
+&ensp; &ensp; &ensp; &ensp; (i)  *Source Code.*  A text listing of commands to be compiled or assembled into an executable computer program used to access the Token, confirm transactions involving the Token, and amend the rules governing Token transactions.
 
-&ensp; &ensp; &ensp; &ensp; (ii)  *Transaction History.*  A narrative description of the steps necessary to independently access, search, and verify the transaction history of the network.    
+&ensp; &ensp; &ensp; &ensp; (ii)  *Transaction History.*  A narrative description of the steps necessary to independently access, search, and verify the transaction history of the Token on the Networks.    
 
-&ensp; &ensp; &ensp; &ensp; (iii)  *Token Economics.*  A narrative description of the purpose of the network, the protocol, and its operation.  At a minimum, such disclosures must include the following:
+&ensp; &ensp; &ensp; &ensp; (iii)  *Token Economics.*  A narrative description of the purpose of the Token and its operation.  At a minimum, such disclosures must include the following:
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  Information explaining the launch and supply process, including the number of Tokens to be issued in an initial allocation, the total number of Tokens to be created, the release schedule for the Tokens, and the total number of Tokens outstanding;
 
@@ -49,9 +49,9 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (D)  Sufficient information for a third party to create a tool for verifying the transaction history of the Token (e.g., the blockchain or distributed ledger).
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (E)  A hyperlink to a block explorer.
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (E)  A reference to public block explorer functionality for all Networks, sufficient to allow a third party to view the transaction history of the Token on each Network.
 
-&ensp; &ensp; &ensp; &ensp; (iv)  *Plan of Development.*  The current state and timeline for the development of the network to show how and when the Initial Development Team intends to achieve Network Maturity.
+&ensp; &ensp; &ensp; &ensp; (iv)  *Plan of Development.*  The current state and timeline for the development of the Token and all Networks to show how and when the Initial Development Team intends to achieve Critical Maturity.
 
 &ensp; &ensp; &ensp; &ensp; (v)  *Prior Token Sales.*  The date of sale, number of Tokens sold prior to filing a notice of reliance on the safe harbor, any limitations or restrictions on the transferability of Tokens sold, and the type and amount of consideration received.
 
@@ -71,7 +71,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; (x)  *Warning to Token Purchasers.*  A statement that the purchase of Tokens involves a high degree of risk and the potential loss of money.  
 
-&ensp; &ensp; (2)  *Semiannual Disclosures.*  Every six months following the date of filing the notice of reliance, pursuant to paragraph (c) of this section, until the end of the three-year period or a determination that Network Maturity has been reached, whichever occurs first, provide updated information required by paragraph (b)(1)(iv) of this section as of the end of the six-month period.  These updates must be made within 30 calendar days after the end of the semiannual period.  
+&ensp; &ensp; (2)  *Semiannual Disclosures.*  Every six months following the date of filing the notice of reliance, pursuant to paragraph (c) of this section, until the end of the three-year period or a determination that Critical Maturity has been reached, whichever occurs first, provide updated information required by paragraph (b)(1)(iv) of this section as of the end of the six-month period.  These updates must be made within 30 calendar days after the end of the semiannual period.  
 
  **(c)  Filing of Notice of Reliance.**  The Initial Development Team must file a notice of reliance on the safe harbor prior to the date of the first Token sold in reliance on the safe harbor.
 
@@ -95,29 +95,29 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; (1) The exit report must contain the following information:
 
-&ensp; &ensp; &ensp; &ensp; (i)  If Network Maturity has been reached for a decentralized network, an analysis by outside counsel must be provided.  The analysis should include:
+&ensp; &ensp; &ensp; &ensp; (i)  If Critical Maturity has been reached for a Decentalized Token, an analysis by outside counsel must be provided.  The analysis should include:
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  A description of the extent to which decentralization has been reached across a number of dimensions, including voting power, development efforts, and network participation.  If applicable, the description should include:
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  A description of the extent to which decentralization has been reached across a number of dimensions, including voting power, development efforts, and Network participation.  If applicable, the description should include:
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (1)  Examples of material engagement on network development and governance matters by parties unaffiliated with the Initial Development Team.   
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (1)  Examples of material engagement on Token and Network development and governance matters by parties unaffiliated with the Initial Development Team.   
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (2)  Explanations of quantitative measurements of decentralization.   
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (2)  Explanations of quantitative measurements of decentralization of the Token and Networks.   
  
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  An explanation of how the Initial Development Team’s pre-Network Maturity activities are distinguishable from their ongoing involvement with the network.  The explanation should:
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  An explanation of how the Initial Development Team’s pre-Critical Maturity activities are distinguishable from their ongoing involvement with the Token and Networks.  The explanation should:
 	
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (1)  Discuss the extent to which the Initial Development Team’s continuing activities are more limited in nature and cannot reasonably be expected uniquely to drive an increase in the value of the Tokens;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (2)  Confirm that the Initial Development Team has no material information about the network that is not publicly available; and 
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (2)  Confirm that the Initial Development Team has no material information about the Token or any Network that is not publicly available; and 
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (3)  Describe the steps taken to communicate to the network the nature and scope of the Initial Development Team’s continuing activities.   
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (3)  Describe the steps taken to communicate to Token holders the nature and scope of the Initial Development Team’s continuing activities.   
 
-&ensp; &ensp; &ensp; &ensp; (ii)  If Network Maturity has been reached for a functional network, an analysis by outside counsel must be provided.  The analysis should:
+&ensp; &ensp; &ensp; &ensp; (ii)  If Critical Maturity has been reached for a Functional Token, an analysis by outside counsel must be provided.  The analysis should include:
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  Describe the holders’ use of Tokens for the transmission and storage of value on the network, the participation in an application running on the network, or otherwise in a manner consistent with the utility of the network. 
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  Describe the holders’ use of the Tokens and Networks for the purposes set out in paragraph (k)(4) of this section. 
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  Detail how the Initial Development Team’s marketing efforts have been, and will be, focused on the Token’s consumptive use, and not on speculative activity.
 
-&ensp; &ensp; &ensp; &ensp; (iii)  If the Initial Development Team determines that Network Maturity has not been reached and no other party has filed an exit report, the following information must be provided:
+&ensp; &ensp; &ensp; &ensp; (iii)  If the Initial Development Team determines that Critical Maturity has not been reached and no other party has filed an exit report, the following information must be provided:
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  The status of the project and the next steps the Initial Development Team intends to take.  
 
@@ -137,19 +137,29 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 **(k)  Definitions.**
 
-&ensp; &ensp; (1)  *Initial Development Team.*  Any person, group of persons, or entity that provides the essential managerial efforts for the development of the network prior to reaching Network Maturity and makes the initial filing of a notice of reliance on this safe harbor.
+&ensp; &ensp; (1)  *Initial Development Team.*  Any person, group of persons, or entity that provides the essential managerial efforts for the development of the Token prior to reaching Critical Maturity and makes the initial filing of a notice of reliance on this safe harbor.
 
-&ensp; &ensp; (2)  *Network Maturity.*  Network Maturity is the status of a decentralized or functional network that is achieved when the network is either:
+&ensp; &ensp; (2)  *Critical Maturity.*  Critical Maturity is the status of a Token that qualifies as either a Decentralized Token or a Functional Token. The definition is not meant to preclude Token or Network alterations achieved through a predetermined procedure in the source code that uses a consensus mechanism and approval of Network participants.
 
-&ensp; &ensp; &ensp; &ensp; (i)  Not economically or operationally controlled and is not reasonably likely to be economically or operationally controlled or unilaterally changed by any single person, entity, or group of persons or entities under common control, except that networks for which the Initial Development Team owns more than 20% of Tokens or owns more than 20% of the means of determining network consensus cannot satisfy this condition; or
+&ensp; &ensp; (3)  *Decentralized Token.*  A Token is decentralized when:
 
-&ensp; &ensp; &ensp; &ensp; (ii)  Functional, as demonstrated by the holders’ use of Tokens for the transmission and storage of value on the network, the participation in an application running on the network, or otherwise in a manner consistent with the utility of the network.
+&ensp; &ensp; &ensp; &ensp; (i)   such Token and all Networks are either not economically or operationally controlled and not reasonably likely to be economically or operationally controlled or unilaterally changed by any single person, entity, or group of persons or entities under common control; and
 
-&ensp; &ensp; &ensp; &ensp; The definition is not meant to preclude network alterations achieved through a predetermined procedure in the source code that uses a consensus mechanism and approval of network participants.
+&ensp; &ensp; &ensp; &ensp; (ii) the Initial Development Team owns no more than 20% of the then-current issuance of the Token, or owns no more than 20% of the means of determining consensus on the Network.
 
-&ensp; &ensp; (3)  *Related Person.*  Related person means the Initial Development Team, directors or advisors to the Initial Development Team, and any immediately family member of such persons.  
+&ensp; &ensp; (4)  *Functional Token.*  A Token is functional when the use of the Tokens by Token holders is limited to any of the following purposes:
 
-&ensp; &ensp; (4)  *Token.*  A Token is a digital representation of value or rights
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  transmission and storage of value on a Network;
+
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  participation in an application running on a Network; or 
+
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  otherwise used in a manner consistent with the utility of the Network.
+
+&ensp; &ensp; (5)  *Network.*  A network upon which the Token functions.  
+
+&ensp; &ensp; (6)  *Related Person.*  Related person means the Initial Development Team, directors or advisors to the Initial Development Team, and any immediately family member of such persons.  
+
+&ensp; &ensp; (7)  *Token.*  A Token is a digital representation of value or rights
 
 &ensp; &ensp; &ensp; &ensp; (i)  that has a transaction history that:
 
