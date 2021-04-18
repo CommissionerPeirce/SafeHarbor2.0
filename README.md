@@ -147,7 +147,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; (ii) the Initial Development Team owns no more than 20% of the then-current issuance of the Token, or owns no more than 20% of the means of determining consensus on the Network.
 
-&ensp; &ensp; (4)  *Functional Token.*  A Token is functional when the Token holders use of the Tokens is limited to any of the following purposes:
+&ensp; &ensp; (4)  *Functional Token.*  A Token is functional when the use of the Tokens by Token holders is limited to any of the following purposes:
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  transmission and storage of value on a Network;
 
