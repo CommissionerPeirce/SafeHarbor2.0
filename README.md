@@ -59,17 +59,17 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  The names and relevant experience, qualifications, attributes, and skills of each person who is a member of the Initial Development Team;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  The number of Tokens or rights to Tokens owned by each member of the Initial Development Team and a description of any limitations or restrictions on the transferability of Tokens held by such persons; and
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  The number of Tokens or rights to Tokens owned by each member of the Initial Development Team and a description of any limitations or restrictions on the transferability of Tokens held by such persons.  For purposes of this disclosure it is recommended that each public hash address of every wallet that holds Tokens of the Initial Development Team be disclosed; and
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  If any member of the Initial Development Team or Related Person has a right to obtain Tokens in the future, in a manner that is distinct from how any third party could obtain Tokens, identify such person and describe how such Tokens may be obtained.
 
 &ensp; &ensp; &ensp; &ensp; (vii)  *Trading Platforms.*  Identify secondary trading platforms on which the Token trades, to the extent known.
 
-&ensp; &ensp; &ensp; &ensp; (viii)  *Sales of Tokens by Initial Development Team.*  Each time a member of the Initial Development Team sells five percent of his or her Tokens as disclosed pursuant to paragraph (b)(1)(vi)(B) of this section over any period of time, state the date(s) of the sale, the number of Tokens sold, and the identity of the seller.   
+&ensp; &ensp; &ensp; &ensp; (viii)  *Sales of Tokens by Initial Development Team.*  Unless each Initial Development Team public wallet is disclosed pursuant to paragraph (b)(1)(vi)(B) of this section, then each time a member of the Initial Development Team sells five percent of his or her Tokens as disclosed pursuant to paragraph (b)(1)(vi)(B) of this section over any period of time, state the date(s) of the sale, the number of Tokens sold, and the identity of the seller.   
 
 &ensp; &ensp; &ensp; &ensp; (ix)  *Related Person Transactions.*  A description of any material transaction, or any proposed material transaction, in which the Initial Development Team is a participant and in which any Related Person had or will have a direct or indirect material interest.  The description should identify the nature of the transaction, the Related Person, the basis on which the person is a Related Person, and the approximate value of the amount involved in the transaction.  
 
-&ensp; &ensp; &ensp; &ensp; (x)  *Warning to Token Purchasers.*  A statement that the purchase of Tokens involves a high degree of risk and the potential loss of money.  
+&ensp; &ensp; &ensp; &ensp; (x)  *Warning to Token Purchasers.*  A statement that the purchase of Tokens involves a high degree of risk and the potential loss of money.  This warning can be displayed in the "Notice of Reliance" that is made pursuant to this section (c)(1)(v) or as a prominent "warning" string of the Token itself.
 
 &ensp; &ensp; (2)  *Semiannual Disclosures.*  Every six months following the date of filing the notice of reliance, pursuant to paragraph (c) of this section, until the end of the three-year period or a determination that Network Maturity has been reached, whichever occurs first, provide updated information required by paragraph (b)(1)(iv) of this section as of the end of the six-month period.  These updates must be made within 30 calendar days after the end of the semiannual period.  
 
@@ -84,6 +84,8 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 &ensp; &ensp; &ensp; &ensp; (iii)  The website where disclosure required under paragraph (b) may be accessed.
 
 &ensp; &ensp; &ensp; &ensp; (iv)  An email address at which the Initial Development Team can be contacted.
+
+&ensp; &ensp; &ensp; &ensp; (v)  To the extent the network allows it, this notice of reliance may be provided in the code of the token itself as a boolean or string statement of reliance that immutably links to website or IPFS hash that provides this disclosure.  This reliance written in the Token would provide notice to all parties using the blockchain reliance is being made by the Intitial Development Team on this Safe Harbor.
 
 &ensp; &ensp; (2)  A notice of reliance must be filed with the Commission in electronic format through the Commission’s Electronic Data Gathering, Analysis, and Retrieval System (EDGAR) in accordance with EDGAR rules set forth in Regulation S-T.
 
