@@ -174,9 +174,9 @@ An organization, association, or group of persons shall be exempt from the defin
 
         (i) constitute, maintain or provide a marketplace; 
 
-        (ii) facilitate bringing together purchasers and sellers of Tokens, satisfying the conditions of Rule 195 of the Securities Act; or, 
+        (ii) facilitate bringing together purchasers and sellers of Tokens, satisfying the conditions of Rule 195 of the Securities Act; or 
 
-        (iii) otherwise with respect to such Tokens, perform the functions commonly performed by a stock exchange as that term is generally understood. 
+        (iii) otherwise perform the functions commonly performed by a stock exchange (as that term is generally understood) with respect to such Tokens. 
 
 Such exemption will also apply to any to any software on the Token's network that is designed to operate in a comparable manner to exchanges.
 
