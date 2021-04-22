@@ -69,7 +69,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; (ix)  *Related Person Transactions.*  A description of any material transaction, or any proposed material transaction, in which the Initial Development Team is a participant and in which any Related Person had or will have a direct or indirect material interest.  The description should identify the nature of the transaction, the Related Person, the basis on which the person is a Related Person, and the approximate value of the amount involved in the transaction.  
 
-&ensp; &ensp; &ensp; &ensp; (x)  *Warning to Token Purchasers.*  A statement that the purchase of Tokens involves a high degree of risk and the potential loss of money.  This warning can be displayed in the "Notice of Reliance" that is made pursuant to this section (c)(1)(v) or as a prominent "warning" string of the Token itself.
+&ensp; &ensp; &ensp; &ensp; (x)  *Warning to Token Purchasers.*  A statement that the purchase of Tokens involves a high degree of risk and the potential loss of money.  This warning may be displayed in the "Notice of Reliance" made pursuant to this section (c)(1)(v) or as a prominent "warning" string on the Token contract.
 
 &ensp; &ensp; (2)  *Semiannual Disclosures.*  Every six months following the date of filing the notice of reliance, pursuant to paragraph (c) of this section, until the end of the three-year period or a determination that Network Maturity has been reached, whichever occurs first, provide updated information required by paragraph (b)(1)(iv) of this section as of the end of the six-month period.  These updates must be made within 30 calendar days after the end of the semiannual period.  
 
@@ -163,7 +163,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; (ii)  that is capable of being transferred between persons without an intermediary party; and
 
-&ensp; &ensp; &ensp; &ensp; (iii)  that does not represent a financial interest in a company, partnership, or fund, including an ownership or debt interest, revenue share, entitlement to any interest or dividend payment.
+&ensp; &ensp; &ensp; &ensp; (iii)  that does not represent a financial interest in a company, partnership, or fund.
 
 Proposed Exchange Act Rule 3a1-2.  Exemption from the definition of “exchange” under Section 3(a)(1) of the Act.
 
