@@ -85,7 +85,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; (iv)  An email address at which the Initial Development Team can be contacted.
 
-&ensp; &ensp; &ensp; &ensp; (v)  To the extent the network allows it, this notice of reliance may be provided in the code of the token itself as a boolean or string statement of reliance that immutably links to website or publicly accessible hash link that provides this disclosure.  This reliance written in the Token would provide notice to all parties using the blockchain that reliance is being made by the Intitial Development Team on this Safe Harbor.
+&ensp; &ensp; &ensp; &ensp; (v)  To the extent the network allows it, this notice of reliance may be provided in the byte code of the token itself as a boolean or string statement of reliance that immutably links to website or publicly accessible hash link that provides this disclosure.
 
 &ensp; &ensp; (2)  A notice of reliance must be filed with the Commission in electronic format through the Commission’s Electronic Data Gathering, Analysis, and Retrieval System (EDGAR) in accordance with EDGAR rules set forth in Regulation S-T.
 
