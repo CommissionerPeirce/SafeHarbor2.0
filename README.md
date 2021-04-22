@@ -23,7 +23,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; (1)  The Initial Development Team intends for the network on which the Token functions to reach Network Maturity within three years of the date of the first sale of Tokens;
 
-&ensp; &ensp; (2)  Disclosures required under paragraph (b) of this section must be made available on a freely accessible public website.
+&ensp; &ensp; (2)  Disclosures required under paragraph (b) of this section must be made available on a freely accessible public website or blockchain.
 
 &ensp; &ensp; (3)  The Token must be offered and sold for the purpose of facilitating access to, participation on, or the development of the network.
 
@@ -33,7 +33,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 **(b)  Disclosure.**  The Initial Development Team must provide the information described below on a freely accessible public website.  
 
-&ensp; &ensp; (1)  *Initial Disclosures.*  Prior to filing a notice of reliance on the safe harbor, provide the following information.  Any material changes to the information required below must be provided on the same freely accessible public website as soon as practicable after the change.
+&ensp; &ensp; (1)  *Initial Disclosures.*  Prior to filing a notice of reliance on the safe harbor, provide the following information.  Any material changes to the information required below must be provided on the same freely accessible public website or blockchain as soon as practicable after the change.
 
 &ensp; &ensp; &ensp; &ensp; (i)  *Source Code.*  A text listing of commands to be compiled or assembled into an executable computer program used by network participants to access the network, amend the code, and confirm transactions.
 
@@ -81,11 +81,11 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; (ii)  Attestation by a person duly authorized by the Initial Development Team that the conditions of this section are satisfied; and
 
-&ensp; &ensp; &ensp; &ensp; (iii)  The website where disclosure required under paragraph (b) may be accessed.
+&ensp; &ensp; &ensp; &ensp; (iii)  The website or publicly accessible hash link (such as IPFS) where disclosure required under paragraph (b) may be accessed.
 
 &ensp; &ensp; &ensp; &ensp; (iv)  An email address at which the Initial Development Team can be contacted.
 
-&ensp; &ensp; &ensp; &ensp; (v)  To the extent the network allows it, this notice of reliance may be provided in the code of the token itself as a boolean or string statement of reliance that immutably links to website or IPFS hash that provides this disclosure.  This reliance written in the Token would provide notice to all parties using the blockchain reliance is being made by the Intitial Development Team on this Safe Harbor.
+&ensp; &ensp; &ensp; &ensp; (v)  To the extent the network allows it, this notice of reliance may be provided in the code of the token itself as a boolean or string statement of reliance that immutably links to website or publicly accessible hash link that provides this disclosure.  This reliance written in the Token would provide notice to all parties using the blockchain that reliance is being made by the Intitial Development Team on this Safe Harbor.
 
 &ensp; &ensp; (2)  A notice of reliance must be filed with the Commission in electronic format through the Commission’s Electronic Data Gathering, Analysis, and Retrieval System (EDGAR) in accordance with EDGAR rules set forth in Regulation S-T.
 
