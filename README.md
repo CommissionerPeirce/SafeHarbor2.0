@@ -172,13 +172,11 @@ except that:
 
 An organization, association, or group of persons shall be exempt from the definition of the term “exchange” if the dominant purpose of such organization, association, or group of persons is to:
 
-        (i) constitute, maintain or provide a marketplace; or
+        (i) constitute, maintain or provide a marketplace; 
 
-        (ii) facilitate bringing together purchasers and sellers of Tokens, 
+        (ii) facilitate bringing together purchasers and sellers of Tokens, satisfying the conditions of Rule 195 of the Securities Act; or, 
 
-satisfying the conditions of Rule 195 of the Securities Act, or, 
-
-        (iii) otherwise perform with respect to such Tokens the functions commonly performed by a stock exchange as that term is generally understood. 
+        (iii) otherwise with respect to such Tokens, perform the functions commonly performed by a stock exchange as that term is generally understood. 
 
 Such exemption will also apply to any to any software on the Token's network that is designed to operate in a comparable manner to exchanges.
 
