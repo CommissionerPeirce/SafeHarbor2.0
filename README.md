@@ -151,7 +151,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; (3)  *Related Person.*  Related person means the Initial Development Team, directors or advisors to the Initial Development Team, and any immediately family member of such persons.  
 
-&ensp; &ensp; (4)  *Token.*  A Token is a digital representation of value or rights
+&ensp; &ensp; (4)  *Token.*  A Token is a digital unit that is recognized by a client on a distributed ledger, blockchain, or other digital data structure as capable of: (a) being uniquely associated with or “owned” by a particular public-key address at each particular block height; and (b) having transfers of such digital unit recorded on the distributed ledger, blockchain, or other digital data.
 
 &ensp; &ensp; &ensp; &ensp; (i)  that has a transaction history that:
 
