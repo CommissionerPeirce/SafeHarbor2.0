@@ -182,11 +182,11 @@ Such exemption will also apply to any to any software on the Token's network tha
 
 **Proposed Exchange Act Rule 3a4-2. Exemption from the definition of “broker” for a person engaged in a Token transaction.**
 
-A person is exempt from the definition of the term “broker” to the extent he or she engages in the business of effecting transactions in Tokens satisfying the conditions of Rule 195 of the Securities Act of 1933 for the account of others. Such exemption will also apply to to any software on the Token's network that is designed to operate in a comparable manner to brokers.
+A person is exempt from the definition of the term “broker” to the extent he or she engages in the business of effecting transactions in Tokens satisfying the conditions of Rule 195 of the Securities Act of 1933 for the account of others. 
 
 **Proposed Exchange Act Rule 3a5-4. Exemption from the definition of “dealer” for a person engaged in a Token transaction.**
 
-A person is exempt from the definition of the term “dealer” to the extent it engages in the business of buying and selling Tokens satisfying the conditions of Rule 195 of the Securities Act of 1933 for such person’s own account through a broker or otherwise. Such exemption will also apply to any software on the Token's network that is designed to operate in a comparable manner to dealers.
+A person is exempt from the definition of the term “dealer” to the extent it engages in the business of buying and selling Tokens satisfying the conditions of Rule 195 of the Securities Act of 1933 for such person’s own account through a broker or otherwise. 
 
 **Proposed Exchange Act Rule 12h-1(j). Exemptions from registration under Section 12(g) of the Act.**
 
