@@ -23,7 +23,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; (1)  The Initial Development Team intends for the network on which the Token functions to reach Network Maturity within three years of the date of the first sale of Tokens;
 
-&ensp; &ensp; (2)  Disclosures required under paragraph (b) of this section must be made available on a freely accessible public website.
+&ensp; &ensp; (2)  Disclosures required under paragraph (b) of this section must be made available on a freely accessible Public Website.
 
 &ensp; &ensp; (3)  The Token must be offered and sold for the purpose of facilitating access to, participation on, or the development of the network.
 
@@ -31,9 +31,9 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; (5)  An exit report is filed in accordance with paragraph (f) of this section.  
 
-**(b)  Disclosure.**  The Initial Development Team must provide the information described below on a freely accessible public website.  
+**(b)  Disclosure.**  The Initial Development Team must provide the information described below on a freely accessible Public Website.  
 
-&ensp; &ensp; (1)  *Initial Disclosures.*  Prior to filing a notice of reliance on the safe harbor, provide the following information.  Any material changes to the information required below must be provided on the same freely accessible public website as soon as practicable after the change.
+&ensp; &ensp; (1)  *Initial Disclosures.*  Prior to filing a notice of reliance on the safe harbor, provide the following information.  Any material changes to the information required below must be provided on the same freely accessible Public Website as soon as practicable after the change.
 
 &ensp; &ensp; &ensp; &ensp; (i)  *Source Code.*  A text listing of commands to be compiled or assembled into an executable computer program used by network participants to access the network, amend the code, and confirm transactions.
 
@@ -59,17 +59,17 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  The names and relevant experience, qualifications, attributes, and skills of each person who is a member of the Initial Development Team;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  The number of Tokens or rights to Tokens owned by each member of the Initial Development Team and a description of any limitations or restrictions on the transferability of Tokens held by such persons; and
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  The number of Tokens or rights to Tokens owned by each member of the Initial Development Team and a description of any limitations or restrictions on the transferability of Tokens held by such persons.  For purposes of this disclosure it is recommended that each public hash address of every wallet that holds Tokens of the Initial Development Team be disclosed; and
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  If any member of the Initial Development Team or Related Person has a right to obtain Tokens in the future, in a manner that is distinct from how any third party could obtain Tokens, identify such person and describe how such Tokens may be obtained.
 
 &ensp; &ensp; &ensp; &ensp; (vii)  *Trading Platforms.*  Identify secondary trading platforms on which the Token trades, to the extent known.
 
-&ensp; &ensp; &ensp; &ensp; (viii)  *Sales of Tokens by Initial Development Team.*  Each time a member of the Initial Development Team sells five percent of his or her Tokens as disclosed pursuant to paragraph (b)(1)(vi)(B) of this section over any period of time, state the date(s) of the sale, the number of Tokens sold, and the identity of the seller.   
+&ensp; &ensp; &ensp; &ensp; (viii)  *Sales of Tokens by Initial Development Team.*  Unless each Initial Development Team public wallet is disclosed pursuant to paragraph (b)(1)(vi)(B) of this section, then each time a member of the Initial Development Team sells five percent of his or her Tokens as disclosed pursuant to paragraph (b)(1)(vi)(B) of this section over any period of time, state the date(s) of the sale, the number of Tokens sold, and the identity of the seller.   
 
 &ensp; &ensp; &ensp; &ensp; (ix)  *Related Person Transactions.*  A description of any material transaction, or any proposed material transaction, in which the Initial Development Team is a participant and in which any Related Person had or will have a direct or indirect material interest.  The description should identify the nature of the transaction, the Related Person, the basis on which the person is a Related Person, and the approximate value of the amount involved in the transaction.  
 
-&ensp; &ensp; &ensp; &ensp; (x)  *Warning to Token Purchasers.*  A statement that the purchase of Tokens involves a high degree of risk and the potential loss of money.  
+&ensp; &ensp; &ensp; &ensp; (x)  *Warning to Token Purchasers.*  A statement that the purchase of Tokens involves a high degree of risk and the potential loss of money.  This warning may be displayed in the "Notice of Reliance" made pursuant to this section (c)(1)(v) or as a prominent "warning" string on the Token contract.
 
 &ensp; &ensp; (2)  *Semiannual Disclosures.*  Every six months following the date of filing the notice of reliance, pursuant to paragraph (c) of this section, until the end of the three-year period or a determination that Network Maturity has been reached, whichever occurs first, provide updated information required by paragraph (b)(1)(iv) of this section as of the end of the six-month period.  These updates must be made within 30 calendar days after the end of the semiannual period.  
 
@@ -81,9 +81,11 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; (ii)  Attestation by a person duly authorized by the Initial Development Team that the conditions of this section are satisfied; and
 
-&ensp; &ensp; &ensp; &ensp; (iii)  The website where disclosure required under paragraph (b) may be accessed.
+&ensp; &ensp; &ensp; &ensp; (iii)  The Public Website where disclosure required under paragraph (b) may be accessed.
 
 &ensp; &ensp; &ensp; &ensp; (iv)  An email address at which the Initial Development Team can be contacted.
+
+&ensp; &ensp; &ensp; &ensp; (v)  To the extent the network allows it, this notice of reliance may be provided in the byte code of the token itself as a boolean or string statement of reliance that immutably links to Public Website that provides this disclosure.
 
 &ensp; &ensp; (2)  A notice of reliance must be filed with the Commission in electronic format through the Commission’s Electronic Data Gathering, Analysis, and Retrieval System (EDGAR) in accordance with EDGAR rules set forth in Regulation S-T.
 
@@ -149,7 +151,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; (3)  *Related Person.*  Related person means the Initial Development Team, directors or advisors to the Initial Development Team, and any immediately family member of such persons.  
 
-&ensp; &ensp; (4)  *Token.*  A Token is a digital representation of value or rights
+&ensp; &ensp; (4)  *Token.*  A Token is a digital unit that is recognized by a client on a distributed ledger, blockchain, or other digital data structure as capable of: (a) being uniquely associated with or “owned” by a particular public-key address at each particular block height; and (b) having transfers of such digital unit recorded on the distributed ledger, blockchain, or other digital data.
 
 &ensp; &ensp; &ensp; &ensp; (i)  that has a transaction history that:
 
@@ -161,7 +163,9 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; (ii)  that is capable of being transferred between persons without an intermediary party; and
 
-&ensp; &ensp; &ensp; &ensp; (iii)  that does not represent a financial interest in a company, partnership, or fund, including an ownership or debt interest, revenue share, entitlement to any interest or dividend payment.
+&ensp; &ensp; &ensp; &ensp; (iii)  that does not represent a financial interest in a company, partnership, or fund.
+
+&ensp; &ensp; (5)  *Public Website.*  A location on the World Wide Web or via IPFS hash that is persistently accessible by anyone with a web browser and access to the Internet.  
 
 Proposed Exchange Act Rule 3a1-2.  Exemption from the definition of “exchange” under Section 3(a)(1) of the Act.
 
