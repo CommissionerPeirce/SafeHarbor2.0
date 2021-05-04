@@ -21,7 +21,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 **(a)  Exemption.**  Except as expressly provided in paragraph (d) of this section, the Securities Act of 1933 does not apply to any offer, sale, or transaction involving a Token if the following conditions are satisfied by the Initial Development Team, as defined herein.
 
-&ensp; &ensp; (1)  The Initial Development Team intends for the network on which the Token functions to reach Network Maturity within three years of the date of the first sale of Tokens;
+&ensp; &ensp; (1)  The Initial Development Team intends for the network on which the Token functions to reach Network Maturity within three years of the date of the first sale of Tokens, or three years from the effective date of this rule, whichever is later;
 
 &ensp; &ensp; (2)  Disclosures required under paragraph (b) of this section must be made available on a freely accessible public website.
 
