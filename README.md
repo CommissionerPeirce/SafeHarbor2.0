@@ -11,18 +11,15 @@ This is a working draft prepared in a single day as part of LeXpunK working grou
 
 ***Preliminary Notes:***
 
-1.   
-
 *The analysis of whether a particular offering or distribution of a digital asset constitutes a securities offering is not static and does not strictly depend on either the nature of the digital asset or the manner of the offering or distribution. It is common practice for developers of autonomous cryptosystems to distribute governance tokens to users of the systems essentially for free (or, put another way, in recognition of or exchange for the usage of the systems by such users). There is significant doubt and debate over whether such distributions--sometimes characterized as "airdrops" and other times as "liquidity mining," depending on the exact details of the distribution--may constitute securities offerings to the public which must be registered with the SEC. Our view is that, under appropriate conditions, the distributions of governance tokens to builders or users of autonomous software systems advances important public policy goals, does not carry the same risks as the capital-raising and investment decisions designed to be protected by the securities registration laws, and should be exempt from registration with the SEC, regardless of whether the tokens are or may otherwise be involved in other transactions which constitute investment contracts.*
  
 *Accordingly, this safe harbor is intended to provide initial development teams for autonomous cryptosystems that are governed or accessed through the use of autonomous cryptotokens with an exemption from registration for the post-operational offer and free (non-capital-raising) distribution of such autonomous cryptotokens to users of the autonomous cryptosystem and the pre-operational distribution of such autonomous cryptotokens to the builders of the autonomous cryptosystem. The safe harbor is designed to protect recipients of autonomous cryptotokens by requiring disclosures tailored to the needs of the users and preserving the potential application of the anti-fraud provisions and secondary market provisons of the federal securities laws..*
 
 *A Q&A explaining certain design decisions underlying the substance of the safe harbor is included at the end of the document*
 
-
-2. 
-
 *Rule 195 is not an exclusive safe harbor. A person who does not meet all of the applicable conditions of Rule 195 still may claim any other available exemption under the Securities Act of 1933 for the offer and sale of Tokens.*
+
+***Proposed Rule 195 Text***
 
 **(a)  Exemption.**  Except as expressly provided in paragraph (d) of this section, the Securities Act of 1933 does not apply to any qualifying distribution of an autonomous cryptotoken if the following conditions are satisfied by the Initial Development Team, as defined herein.
 
