@@ -29,7 +29,7 @@ This is a working draft prepared in a single day as part of LeXpunK working grou
 
 &ensp; &ensp; (3)  The Initial Development Team files a notice of reliance in accordance with paragraph (c) of this section.
 
-&ensp; &ensp; (4)  The autonomous cryptotokens beneficially owned or controlled by the Initial Development Team, its members and any of their respective related parties or affiliates (and all rights, benefits and powers with respect thereto) are not directly or indirectly sold or transferred (except without additional consideration to their respective related parties or affiliates) for a period of at least 12 months from the date of the first public qualifying distribution of the autonomous cryptotokens pursuant to clause ‘(a)’ of the definition of “qualifying distribution” set forth in paragraph (g)(8) of this section. 
+&ensp; &ensp; (4)  The autonomous cryptotokens beneficially owned or controlled by the initial development team, its members and, to the extent known by the initial development team, any of their respective related persons (and all rights, benefits and powers with respect thereto) are not directly or indirectly sold or transferred (except without additional consideration from the initial development team or its members to their respective related persons) for a period of at least 12 months from the date of the first public qualifying distribution of the autonomous cryptotokens pursuant to clause ‘(a)’ of the definition of “qualifying distribution” set forth in paragraph (g)(8) of this section. 
 
 **(b)  Disclosure.**  The Initial Development Team must provide the information described below on a freely accessible public website.  Such information must be updated within five business days of a material change of such information; provided, however, that the information described in subparagraph (1) will be deemed automatically amended by any public updates made to a code repository which was identified by and deemed to be automatically incorporated by reference into the existing disclosure.  
 
@@ -38,6 +38,7 @@ This is a working draft prepared in a single day as part of LeXpunK working grou
 &ensp; &ensp; &ensp; &ensp; (i)  *Source Code.*  The complete human-readable source code for the relevant open cryptoclient and autonomous cryptocode and the complete text of the free open-source software licenses pursuant to which such source code is licensed to the public (each of which may be incorporated by reference from a suitable public software repository). 
 
 &ensp; &ensp; &ensp; &ensp; (ii)  *Transaction History.*  A narrative description of the steps necessary to independently access, search, and verify the transaction history of the relevant autonomous cryptosystem.   
+
 
 &ensp; &ensp; &ensp; &ensp; (iii)  *Token Economics.*  A narrative description of the purposes and operation of the autonomous cryptotoken and the corresponding autonomous cryptosystem .  At a minimum, such disclosures must include the following:
 
@@ -59,11 +60,11 @@ This is a working draft prepared in a single day as part of LeXpunK working grou
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  The number or percentage of the total maximum possible supply of autonomous cryptotokens that each Executive Developer beneficially owns or has the right to receive or control and a description of any limitations or restrictions on the transferability of autonomous cryptotokens that any member of the Initial Development Team beneficially owns or has the right to receive or control; and
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  If any member of the Initial Development Team or Related Person has a right to obtain autonomous cryptotokens in the future, in a manner that is distinct from how any third party could obtain autonomous cryptotokens, identify such person and describe how such autonomous cryptotokens may be obtained.
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  If the initial development team, any member of the initial development team or, to the extent known to the initial development team, any of their respective related persons has a right to obtain autonomous cryptotokens in the future in a manner that is distinct from how any third party could obtain autonomous cryptotokens, identify such person and describe how such autonomous cryptotokens may be obtained.
 
 &ensp; &ensp; &ensp; &ensp; (vi)  *Sales of Tokens by Initial Development Team.*  Each time an Executive Developer sells five percent of his or her autonomous cryptotokens as disclosed pursuant to paragraph (b)(1)(v)(B) of this section over any period of time, state, within 4 business days after the consummation of such sale, the date(s) of the sale, the number of autonomous cryptotokens sold, and the identity of the seller.   
 
-&ensp; &ensp; &ensp; &ensp; (vii)  *Related Person Transactions.*  A description of any actual or proposed material transaction relating in any material respect to the autonomous cryptosystem or autonomous cryptotokens in which the Initial Development Team is a participant and in which any Related Person had or will have a direct or indirect material interest.  The description should identify the nature of the transaction, the Related Person, the basis on which the person is a Related Person, and the approximate value of the amount involved in the transaction.  
+&ensp; &ensp; &ensp; &ensp; (vii)  *Related Person Transactions.*  A description of any actual or proposed material transaction relating in any material respect to the autonomous cryptosystem or autonomous cryptotokens in which the initial development team or any member thereof is a participant and in which, to the extent known by the initial development team, any of their respective related persons had or will have a direct or indirect material interest.  The description should identify the nature of the transaction, the related person, the basis on which the person is a related person, and the approximate value of the amount involved in the transaction.  
 
 &ensp; &ensp; &ensp; &ensp; (viii)  *Warning to Token Purchasers.*  A statement that the purchase of autonomous cryptotokens involves a high degree of risk and the potential loss of money. 
 
@@ -105,11 +106,11 @@ This is a working draft prepared in a single day as part of LeXpunK working grou
 
 &ensp; &ensp; &ensp; &ensp; (b) the private distribution of any autonomous cryptotokens, in one or a series of transactions over any period of time before the corresponding autonomous cryptosystem described in Section 6(c) has become publicly operational, to members of the initial development team, provided that: (1) the percentage of the total possible maximum supply of the autonomous cryptotokens to the initial development team and all its members does not exceed 30% in the aggregate or 5% to any member; (2) within 30 days of the autonomous cryptosystem becoming operational, the initial development team and its members collectively do not beneficially hold or control a majority of the economic benefits or voting powers associated with the autonomous cryptotoken (excluding any such tokens held in the autonomous cryptotreasury). 
 
-&ensp; &ensp; &ensp; For the avoidance of doubt, in a distribution qualifying under clause ‘(a)’ of this Section (8), neither the initial development team nor any of their respective related parties or affiliates, may be paid any sale proceeds or capital by users of the autonomous cryptosystem as consideration for distribution of the autonomous cryptotokens; instead, users must be entitled to receive the autonomous cryptotokens solely as a result of their use of their post-operational use of the corresponding autonomous cryptosystem or their historical pre-operational use of the autonomous cryptosystem on which the first autonomous cryptosystem is stored and operated.  
+&ensp; &ensp; &ensp; For the avoidance of doubt, in a distribution qualifying under clause ‘(a)’ of this Section (8), neither the initial development team nor any of their respective related persons, may be paid any sale proceeds or capital by users of the autonomous cryptosystem as consideration for distribution of the autonomous cryptotokens; instead, users must be entitled to receive the autonomous cryptotokens solely as a result of their use of their post-operational use of the corresponding autonomous cryptosystem or their historical pre-operational use of the autonomous cryptosystem on which the first autonomous cryptosystem is stored and operated.  
 
-&ensp; &ensp; (9)  *initial development team*  means any person, group of persons, or entity that provides the essential managerial efforts for the development of the network prior to the first qualifying disposition of the autonomous cryptotokens and makes the initial filing of a notice of reliance on this safe harbor.
+&ensp; &ensp; (9)  *initial development team*  means any person, group of persons, or entity that provides the essential managerial efforts for the development of the network prior to the first qualifying disposition of the autonomous cryptotokens and makes the initial filing of a notice of reliance on this safe harbor and a *member* of an initial development team means any person, group of persons or entity that provides services to or with the intiital development team.
 
-&ensp; &ensp; (10)  *related person* means the Initial Development Team, directors or advisors to the Initial Development Team, and any immediately family member of such persons.
+&ensp; &ensp; (10)  *related person* means with respect to any person, any affiliate or immediate family member of such person. 
 
 &ensp; &ensp; (11)  *extrinsically affiliated* means, with respect to any two persons and any autonomous cryptotokens, that: (a) due to arrangements or agreements outside of the autonomous cryptosystem (such as ownership of one person's equity securities by another), one such person directly or indirectly controls, is controlled by or is under common control with, the other person in respect of their acquisition, holding, voting, using or disposing of the autonomous cryptotokens; or (b) such persons have agreed to act together for the purpose of acquiring, holding, voting, using or disposing of the autonomous cryptotokens; provided, however, that two persons independently using or agreeing to use the autonomous cryptotokens for their intended purposes within the autonomous cryptosystem (such as by participating in a proof- of-stake consensus process that results in agreement among stakers or validators) shall not constitute such an agreement to act together.
 
@@ -171,14 +172,9 @@ With the benefit of hindsight after engaging in discussions and debates over Com
 
 **Definite and Possible To-Dos For Refinement of this Proposal:** 
 
+-->define "autonomous cryptotreasury" 
 -->think through whether some more wiggle room should be added for limited 'trustful' features (e.g., Curve-style emergency multisig, multisig with limited security-response authority and a timelock before changes, etc.) 
-
--->tighten up drafting generally (e.g., define a term to avoid certain repetitious phrases re: open source software, etc.,; consolidate "affiliates" with "related persons" and be consistent in usage) 
-
--->potentially tighten up language/substance around the meaning of control by the initial development team (right now has lazy text about "control of a majority of economic benefits or voting power")
-
--->think about total supply vs. circulating supply vs. votable supply and potentially refine the standard around that 
-
+-->tighten up drafting generally (e.g., define a term to avoid certain repetitious phrases re: open source software, etc.,) 
+-->potentially tighten up language/substance around the meaning of control by the initial development team (right now has lazy text about "control of a majority of economic benefits or voting power")--think about total supply vs. circulating supply vs. votable supply and potentially refine the standard around that 
 -->consider being even more liberal and allowing a 3-month grace period to become fully decentralized, and thus adding back something like the "network maturity" and "exit report" standards from Peirce's safe harbor (it is my observation that most developers are very uncomfortable being decentralized from day 1, for both security-oriented reasons and practical time-to-market reasons) ...OTOH, maybe those things can be addressed by delaying token distribution until after the system has been live for a while
-
 -->scour other safe harbor forks for potential good ideas 
