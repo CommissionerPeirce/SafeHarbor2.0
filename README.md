@@ -125,11 +125,11 @@ This is a working draft prepared in a single day as part of LeXpunK working grou
 
 &ensp; &ensp; &ensp; &ensp; (a) the public distribution of any autonomous cryptotokens, in one or a series of transactions, over any period of time after the corresponding autonomous cryptosystem described in Section 6(c) has become publicly operational, to: 
 
-​				(1) any users of the autonomous cryptosystem, solely in exchange for or recognition of using the autonomous cryptosystem in one or more transactions or continuously during a designated period of time; 
+&ensp; &ensp; &ensp; &ensp;&ensp;&ensp; (1) any users of the autonomous cryptosystem, solely in exchange for or recognition of using the autonomous cryptosystem in one or more transactions or continuously during a designated period of time; 
 
-​				(2) if the corresponding autonomous cryptosystem is of the type described in Section 1(b), to users of the autonomous cryptosystem of the type described in Section 1(a) on which the corresponding autonomous cryptosystem is stored and executed, solely in recognition of historical use of the autonomous cryptosystem of the type described in Section 1(a); or 
+&ensp; &ensp; &ensp; &ensp;&ensp;&ensp; (2) if the corresponding autonomous cryptosystem is of the type described in Section 1(b), to users of the autonomous cryptosystem of the type described in Section 1(a) on which the corresponding autonomous cryptosystem is stored and executed, solely in recognition of historical use of the autonomous cryptosystem of the type described in Section 1(a); or 
 
-​				(3) an autonomous cryptotreasury controlled by holders of the autonomous cryptotokens; or 
+&ensp; &ensp; &ensp; &ensp;&ensp;&ensp; (3) an autonomous cryptotreasury controlled by holders of the autonomous cryptotokens; or 
 
 &ensp; &ensp; &ensp; &ensp; (b) the private distribution of any autonomous cryptotokens, in one or a series of transactions over any period of time before the corresponding autonomous cryptosystem described in Section 6(c) has become publicly operational, to members of the initial development team, provided that: (1) the percentage of the total possible maximum supply of the autonomous cryptotokens to the initial development team and all its members does not exceed 30% in the aggregate or 5% to any member; (2) within 30 days of the autonomous cryptosystem becoming operational, the initial development team and its members collectively do not beneficially hold or control a majority of the economic benefits or voting powers associated with the autonomous cryptotoken (excluding any such tokens held in the autonomous cryptotreasury). 
 
@@ -185,7 +185,6 @@ With the benefit of hindsight after engaging in discussions and debates over Com
 
 **Definite and Possible To-Dos For Refinement of this Proposal:** 
 
--->define "autonomous cryptotreasury" 
 
 -->think through whether some more wiggle room should be added for limited 'trustful' features (e.g., Curve-style emergency multisig, multisig with limited security-response authority and a timelock before changes, etc.) 
 
