@@ -196,3 +196,5 @@ With the benefit of hindsight after engaging in discussions and debates over Com
 [__] consider being even more liberal and allowing a 3-month grace period to become fully decentralized, and thus adding back something like the "network maturity" and "exit report" standards from Peirce's safe harbor (it is my observation that most developers are very uncomfortable being decentralized from day 1, for both security-oriented reasons and practical time-to-market reasons) ...OTOH, maybe those things can be addressed by delaying token distribution until after the system has been live for a while
 
 [__] scour other safe harbor forks for potential good ideas 
+
+[__] include more fulsome description of the public policy goals achieved by autonomous cryptosystems and autonomous cryptotokens
