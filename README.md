@@ -83,7 +83,7 @@ This is a working draft prepared in a single day as part of LeXpunK working grou
 
 **(d)  Limitation.**  The exemption provided in paragraph (a) of this section does not apply to the provisions of Section 12(a)(2) or Section 17 of the Securities Act of 1933.
 
-**(e)  Definition of Qualified Purchaser.**  For purposes of Section 18(b)(3) of the Securities Act of 1933, a “qualified purchaser” includes any person to whom autonomous crypto are offered or distributed in a qualifying distribution in reliance on paragraph (a) of this section.
+**(e)  Definition of Qualified Purchaser.**  For purposes of Section 18(b)(3) of the Securities Act of 1933, a “qualified purchaser” includes any person to whom autonomous cryptotokens are offered or distributed in a qualifying distribution in reliance on paragraph (a) of this section.
 
 **(f)  Disqualifications.**  No exemption under this section is available for the autonomous cryptotokens of any Initial Development Team if it or its Executive Developers would be subject to disqualification under Rule 506(d).
 
