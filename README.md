@@ -39,7 +39,6 @@ This is a working draft prepared in a single day as part of LeXpunK working grou
 
 &ensp; &ensp; &ensp; &ensp; (ii)  *Transaction History.*  A narrative description of the steps necessary to independently access, search, and verify the transaction history of the relevant autonomous cryptosystem.   
 
-
 &ensp; &ensp; &ensp; &ensp; (iii)  *Token Economics.*  A narrative description of the purposes and operation of the autonomous cryptotoken and the corresponding autonomous cryptosystem .  At a minimum, such disclosures must include the following:
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  Information explaining the launch and supply process for the autonomous cryptotoken, including the number of autonomous cryptotokens to be issued in an initial allocation, the total number of autonomous cryptotokens to be created, the release schedule for the autonomous cryptotokens, and the total number of autonomous cryptotokens outstanding;
@@ -99,7 +98,7 @@ This is a working draft prepared in a single day as part of LeXpunK working grou
 
 &ensp; &ensp; (6) *autonomous cryptotoken* means any electronic unit of account that: (a) is natively created, stored and updated within and by means of an autonomous cryptosystem; (b) could reasonably be expected to have material pecuniary value; (c) solely through operation of the relevant autonomous cryptosystems, enables the controller of the electronic unit of account to (1) pay for the use of an autonomous cryptosystem; (2) vote in the governance or control of an autonomous cryptosystem or any parameters or features thereof; or (3) capture, track, access, receive or otherwise benefit from the value of an autonomous cryptosystem based on the use, popularity or adoption of such autonomous cryptosystem (including any electronic units of account paid into such autonomous cryptosystem as usage fees); and (d)  does not represent the contractual right to receive any payment or distribution from any person (in respect of any payment of principal or interest on a debt, distribution of profits, assets or dividends, or otherwise). 
 
-&ensp; &ensp; (7) *autonomous cryptotreasury* means [A SMART CONTRACT WHICH HAS SOLE AND EXCLUSIVE CONTROL OVER THE ISSUANCE, TRANSFER AND USE OF ANY AUTONOMOUS CRYPTOTOKENS]
+&ensp; &ensp; (7) *autonomous cryptotreasury* means an autonomous cryptosystem that exclusively controls either the generation of or issuance of un-generated or unissued autonomous cryptotokens of a given type based on the results of governance voting of issued autonomous cryptotokens of the same type. 
 
 &ensp; &ensp; (8) *qualifying distribution* means: 
 &ensp; &ensp; &ensp; &ensp; (a) the public distribution of any autonomous cryptotokens, in one or a series of transactions, over any period of time after the corresponding autonomous cryptosystem described in Section 6(c) has become publicly operational, to: (1) any users of the autonomous cryptosystem, solely in exchange for or recognition of using the autonomous cryptosystem in one or more transactions or continuously during a designated period of time; (2) if the corresponding autonomous cryptosystem is of the type described in Section 1(b), to users of the autonomous cryptosystem of the type described in Section 1(a) on which the corresponding autonomous cryptosystem is stored and executed, solely in recognition of historical use of the autonomous cryptosystem of the type described in Section 1(a); or (3) an autonomous cryptotreasury controlled by holders of the autonomous cryptotokens; or 
@@ -172,9 +171,14 @@ With the benefit of hindsight after engaging in discussions and debates over Com
 
 **Definite and Possible To-Dos For Refinement of this Proposal:** 
 
--->define "autonomous cryptotreasury" 
 -->think through whether some more wiggle room should be added for limited 'trustful' features (e.g., Curve-style emergency multisig, multisig with limited security-response authority and a timelock before changes, etc.) 
+
 -->tighten up drafting generally (e.g., define a term to avoid certain repetitious phrases re: open source software, etc.,; consolidate "affiliates" with "related persons" and be consistent in usage) 
--->potentially tighten up language/substance around the meaning of control by the initial development team (right now has lazy text about "control of a majority of economic benefits or voting power")--think about total supply vs. circulating supply vs. votable supply and potentially refine the standard around that 
+
+-->potentially tighten up language/substance around the meaning of control by the initial development team (right now has lazy text about "control of a majority of economic benefits or voting power")
+
+-->think about total supply vs. circulating supply vs. votable supply and potentially refine the standard around that 
+
 -->consider being even more liberal and allowing a 3-month grace period to become fully decentralized, and thus adding back something like the "network maturity" and "exit report" standards from Peirce's safe harbor (it is my observation that most developers are very uncomfortable being decentralized from day 1, for both security-oriented reasons and practical time-to-market reasons) ...OTOH, maybe those things can be addressed by delaying token distribution until after the system has been live for a while
+
 -->scour other safe harbor forks for potential good ideas 
