@@ -105,19 +105,19 @@ This is a working draft prepared in a single day as part of LeXpunK working grou
 
 &ensp; &ensp; (6) *autonomous cryptotoken* means any electronic unit of account that: 
 
-​			(a) is natively created, stored and updated within and by means of an autonomous cryptosystem; 
+&ensp; &ensp; &ensp; &ensp; (a) is natively created, stored and updated within and by means of an autonomous cryptosystem; 
 
-​			(b) could reasonably be expected to have material pecuniary value; 
+&ensp; &ensp; &ensp; &ensp; (b) could reasonably be expected to have material pecuniary value; 
 
-​			(c) solely through operation of the relevant autonomous cryptosystems, enables the controller of the electronic unit of account to:
+&ensp; &ensp; &ensp; &ensp; (c) solely through operation of the relevant autonomous cryptosystems, enables the controller of the electronic unit of account to:
 
-​				(1) pay for the use of an autonomous cryptosystem; 
+&ensp; &ensp; &ensp; &ensp;&ensp;&ensp; (1) pay for the use of an autonomous cryptosystem; 
 
-​				(2) vote in the governance or control of an autonomous cryptosystem or any parameters or features thereof; or 
+&ensp; &ensp; &ensp; &ensp;&ensp;&ensp; (2) vote in the governance or control of an autonomous cryptosystem or any parameters or features thereof; or 
 
-​				(3) capture, track, access, receive or otherwise benefit from the value of an autonomous cryptosystem based on the use, popularity or adoption of such autonomous cryptosystem (including any electronic units of account paid into such autonomous cryptosystem as usage fees); and 
+&ensp; &ensp; &ensp; &ensp;&ensp;&ensp; (3) capture, track, access, receive or otherwise benefit from the value of an autonomous cryptosystem based on the use, popularity or adoption of such autonomous cryptosystem (including any electronic units of account paid into such autonomous cryptosystem as usage fees); and 
 
-​			(d)  does not represent the contractual right to receive any payment or distribution from any person (in respect of any payment of principal or interest on a debt, distribution of profits, assets or dividends, or otherwise). 
+&ensp; &ensp; &ensp; &ensp; (d)  does not represent the contractual right to receive any payment or distribution from any person (in respect of any payment of principal or interest on a debt, distribution of profits, assets or dividends, or otherwise). 
 
 &ensp; &ensp; (7) *autonomous cryptotreasury* means an autonomous cryptosystem that exclusively controls either the generation of or issuance of un-generated or unissued autonomous cryptotokens of a given type based on the results of governance voting of issued autonomous cryptotokens of the same type. 
 
@@ -186,8 +186,13 @@ With the benefit of hindsight after engaging in discussions and debates over Com
 **Definite and Possible To-Dos For Refinement of this Proposal:** 
 
 -->define "autonomous cryptotreasury" 
+
 -->think through whether some more wiggle room should be added for limited 'trustful' features (e.g., Curve-style emergency multisig, multisig with limited security-response authority and a timelock before changes, etc.) 
+
 -->tighten up drafting generally (e.g., define a term to avoid certain repetitious phrases re: open source software, etc.,) 
+
 -->potentially tighten up language/substance around the meaning of control by the initial development team (right now has lazy text about "control of a majority of economic benefits or voting power")--think about total supply vs. circulating supply vs. votable supply and potentially refine the standard around that 
+
 -->consider being even more liberal and allowing a 3-month grace period to become fully decentralized, and thus adding back something like the "network maturity" and "exit report" standards from Peirce's safe harbor (it is my observation that most developers are very uncomfortable being decentralized from day 1, for both security-oriented reasons and practical time-to-market reasons) ...OTOH, maybe those things can be addressed by delaying token distribution until after the system has been live for a while
+
 -->scour other safe harbor forks for potential good ideas 
