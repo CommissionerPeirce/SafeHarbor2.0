@@ -172,7 +172,6 @@ With the benefit of hindsight after engaging in discussions and debates over Com
 **Definite and Possible To-Dos For Refinement of this Proposal:** 
 
 -->define "autonomous cryptotreasury" 
--->define "extrinsically affiliated"
 -->think through whether some more wiggle room should be added for limited 'trustful' features (e.g., Curve-style emergency multisig, multisig with limited security-response authority and a timelock before changes, etc.) 
 -->tighten up drafting generally (e.g., define a term to avoid certain repetitious phrases re: open source software, etc.,; consolidate "affiliates" with "related persons" and be consistent in usage) 
 -->potentially tighten up language/substance around the meaning of control by the initial development team (right now has lazy text about "control of a majority of economic benefits or voting power")--think about total supply vs. circulating supply vs. votable supply and potentially refine the standard around that 
