@@ -12,7 +12,7 @@ This is a working draft prepared in a single day as part of LeXpunK working grou
 ***Preliminary Notes:***
 
 *The analysis of whether a particular offering or distribution of a digital asset constitutes a securities offering is not static and does not strictly depend on either the nature of the digital asset or the manner of the offering or distribution. It is common practice for developers of autonomous cryptosystems to distribute governance tokens to users of the systems essentially for free (or, put another way, in recognition of or exchange for the usage of the systems by such users). There is significant doubt and debate over whether such distributions--sometimes characterized as "airdrops" and other times as "liquidity mining," depending on the exact details of the distribution--may constitute securities offerings to the public which must be registered with the SEC. Our view is that, under appropriate conditions, the distributions of governance tokens to builders or users of autonomous software systems advances important public policy goals, does not carry the same risks as the capital-raising and investment decisions designed to be protected by the securities registration laws, and should be exempt from registration with the SEC, regardless of whether the tokens are or may otherwise be involved in other transactions which constitute investment contracts.*
- 
+
 *Accordingly, this safe harbor is intended to provide initial development teams for autonomous cryptosystems that are governed or accessed through the use of autonomous cryptotokens with an exemption from registration for the post-operational offer and free (non-capital-raising) distribution of such autonomous cryptotokens to users of the autonomous cryptosystem and the pre-operational distribution of such autonomous cryptotokens to the builders of the autonomous cryptosystem. The safe harbor is designed to protect recipients of autonomous cryptotokens by requiring disclosures tailored to the needs of the users and preserving the potential application of the anti-fraud provisions and secondary market provisons of the federal securities laws..*
 
 *A Q&A explaining certain design decisions underlying the substance of the safe harbor is included at the end of the document*
@@ -38,6 +38,7 @@ This is a working draft prepared in a single day as part of LeXpunK working grou
 &ensp; &ensp; &ensp; &ensp; (i)  *Source Code.*  The complete human-readable source code for the relevant open cryptoclient and autonomous cryptocode and the complete text of the free open-source software licenses pursuant to which such source code is licensed to the public (each of which may be incorporated by reference from a suitable public software repository). 
 
 &ensp; &ensp; &ensp; &ensp; (ii)  *Transaction History.*  A narrative description of the steps necessary to independently access, search, and verify the transaction history of the relevant autonomous cryptosystem.   
+
 
 &ensp; &ensp; &ensp; &ensp; (iii)  *Token Economics.*  A narrative description of the purposes and operation of the autonomous cryptotoken and the corresponding autonomous cryptosystem .  At a minimum, such disclosures must include the following:
 
@@ -68,17 +69,11 @@ This is a working draft prepared in a single day as part of LeXpunK working grou
 &ensp; &ensp; &ensp; &ensp; (viii)  *Warning to Token Purchasers.*  A statement that the purchase of autonomous cryptotokens involves a high degree of risk and the potential loss of money. 
 
  **(c)  Filing of Notice of Reliance.**  The Initial Development Team must file a notice of reliance on the safe harbor prior to the date of the first autonomous cryptotoken distributed in reliance on the safe harbor.
- 
 &ensp; &ensp; (1)  The notice of reliance must contain the following information:
-
 &ensp; &ensp; &ensp; &ensp; (i)  The name of each Executive Developer;
-
 &ensp; &ensp; &ensp; &ensp; (ii)  Attestation by an Executive Developer that the conditions of this section are satisfied; and
-
 &ensp; &ensp; &ensp; &ensp; (iii)  The website where disclosure required under paragraph (b) may be accessed.
-
 &ensp; &ensp; &ensp; &ensp; (iv)  An email address at which the Initial Development Team can be contacted.
-
 &ensp; &ensp; (2)  A notice of reliance must be filed with the Commission in electronic format through the Commission’s Electronic Data Gathering, Analysis, and Retrieval System (EDGAR) in accordance with EDGAR rules set forth in Regulation S-T.
 
 **(d)  Limitation.**  The exemption provided in paragraph (a) of this section does not apply to the provisions of Section 12(a)(2) or Section 17 of the Securities Act of 1933.
@@ -102,12 +97,33 @@ This is a working draft prepared in a single day as part of LeXpunK working grou
 
 &ensp; &ensp; (5) *autonomous cryptocode* means a copy of certain software code such that: (a) the software code was designed primarily to be run and facilitate transactions on one or more autonomous cryptonetworks; (b) the copy is verifiably stored and has its results of execution recorded on the open cryptoledger of an autonomous cryptonetwork; and (c) the copy is executable by any open cryptoclient within the execution environment of the autonomous cryptonetwork, provided that: (1) the software code is freely and readily available and licensed to the general public for use, copy, study and modification; and (2) if the copy consists of bytecode, machine code or other non-human-readable code, then the copy was verifiably compiled from human-readable source code that is freely and readily available and licensed to the general public for use, copy, study and modification.
 
-&ensp; &ensp; (6) *autonomous cryptotoken* means any electronic unit of account that: (a) is natively created, stored and updated within and by means of an autonomous cryptosystem; (b) could reasonably be expected to have material pecuniary value; (c) solely through operation of the relevant autonomous cryptosystems, enables the controller of the electronic unit of account to (1) pay for the use of an autonomous cryptosystem; (2) vote in the governance or control of an autonomous cryptosystem or any parameters or features thereof; or (3) capture, track, access, receive or otherwise benefit from the value of an autonomous cryptosystem based on the use, popularity or adoption of such autonomous cryptosystem (including any electronic units of account paid into such autonomous cryptosystem as usage fees); and (d)  does not represent the contractual right to receive any payment or distribution from any person (in respect of any payment of principal or interest on a debt, distribution of profits, assets or dividends, or otherwise). 
+&ensp; &ensp; (6) *autonomous cryptotoken* means any electronic unit of account that: 
+
+​			(a) is natively created, stored and updated within and by means of an autonomous cryptosystem; 
+
+​			(b) could reasonably be expected to have material pecuniary value; 
+
+​			(c) solely through operation of the relevant autonomous cryptosystems, enables the controller of the electronic unit of account to:
+
+​				(1) pay for the use of an autonomous cryptosystem; 
+
+​				(2) vote in the governance or control of an autonomous cryptosystem or any parameters or features thereof; or 
+
+​				(3) capture, track, access, receive or otherwise benefit from the value of an autonomous cryptosystem based on the use, popularity or adoption of such autonomous cryptosystem (including any electronic units of account paid into such autonomous cryptosystem as usage fees); and 
+
+​			(d)  does not represent the contractual right to receive any payment or distribution from any person (in respect of any payment of principal or interest on a debt, distribution of profits, assets or dividends, or otherwise). 
 
 &ensp; &ensp; (7) *autonomous cryptotreasury* means an autonomous cryptosystem that exclusively controls either the generation of or issuance of un-generated or unissued autonomous cryptotokens of a given type based on the results of governance voting of issued autonomous cryptotokens of the same type. 
 
 &ensp; &ensp; (8) *qualifying distribution* means: 
-&ensp; &ensp; &ensp; &ensp; (a) the public distribution of any autonomous cryptotokens, in one or a series of transactions, over any period of time after the corresponding autonomous cryptosystem described in Section 6(c) has become publicly operational, to: (1) any users of the autonomous cryptosystem, solely in exchange for or recognition of using the autonomous cryptosystem in one or more transactions or continuously during a designated period of time; (2) if the corresponding autonomous cryptosystem is of the type described in Section 1(b), to users of the autonomous cryptosystem of the type described in Section 1(a) on which the corresponding autonomous cryptosystem is stored and executed, solely in recognition of historical use of the autonomous cryptosystem of the type described in Section 1(a); or (3) an autonomous cryptotreasury controlled by holders of the autonomous cryptotokens; or 
+
+&ensp; &ensp; &ensp; &ensp; (a) the public distribution of any autonomous cryptotokens, in one or a series of transactions, over any period of time after the corresponding autonomous cryptosystem described in Section 6(c) has become publicly operational, to: 
+
+​				(1) any users of the autonomous cryptosystem, solely in exchange for or recognition of using the autonomous cryptosystem in one or more transactions or continuously during a designated period of time; 
+
+​				(2) if the corresponding autonomous cryptosystem is of the type described in Section 1(b), to users of the autonomous cryptosystem of the type described in Section 1(a) on which the corresponding autonomous cryptosystem is stored and executed, solely in recognition of historical use of the autonomous cryptosystem of the type described in Section 1(a); or 
+
+​				(3) an autonomous cryptotreasury controlled by holders of the autonomous cryptotokens; or 
 
 &ensp; &ensp; &ensp; &ensp; (b) the private distribution of any autonomous cryptotokens, in one or a series of transactions over any period of time before the corresponding autonomous cryptosystem described in Section 6(c) has become publicly operational, to members of the initial development team, provided that: (1) the percentage of the total possible maximum supply of the autonomous cryptotokens to the initial development team and all its members does not exceed 30% in the aggregate or 5% to any member; (2) within 30 days of the autonomous cryptosystem becoming operational, the initial development team and its members collectively do not beneficially hold or control a majority of the economic benefits or voting powers associated with the autonomous cryptotoken (excluding any such tokens held in the autonomous cryptotreasury). 
 
@@ -118,20 +134,6 @@ This is a working draft prepared in a single day as part of LeXpunK working grou
 &ensp; &ensp; (10)  *related person* means with respect to any person, any affiliate or immediate family member of such person. 
 
 &ensp; &ensp; (11)  *extrinsically affiliated* means, with respect to any two persons and any autonomous cryptotokens, that: (a) due to arrangements or agreements outside of the autonomous cryptosystem (such as ownership of one person's equity securities by another), one such person directly or indirectly controls, is controlled by or is under common control with, the other person in respect of their acquisition, holding, voting, using or disposing of the autonomous cryptotokens; or (b) such persons have agreed to act together for the purpose of acquiring, holding, voting, using or disposing of the autonomous cryptotokens; provided, however, that two persons independently using or agreeing to use the autonomous cryptotokens for their intended purposes within the autonomous cryptosystem (such as by participating in a proof- of-stake consensus process that results in agreement among stakers or validators) shall not constitute such an agreement to act together.
-
-(b)
-
-(1) When two or more persons agree to act together for the purpose of acquiring, holding, voting or disposing of equity securities of an issuer, the group formed thereby shall be deemed to have acquired beneficial ownership, for purposes of sections 13(d) and (g) of the Act, as of the date of such agreement, of all equity securities of that issuer beneficially owned by any such persons.
-
-(2) Notwithstanding the previous paragraph, a group shall be deemed not to have acquired any equity securities beneficially owned by the other members of the group solely by virtue of their concerted actions relating to the purchase of equity securities directly from an issuer in a transaction not involving a public offering: Provided, That:
-
-(i) All the members of the group are persons specified in Rule 13d-1(b)(1)(ii);
-
-(ii) The purchase is in the ordinary course of each member's business and not with the purpose nor with the effect of changing or influencing control of the issuer, nor in connection with or as a participant in any transaction having such purpose or effect, including any transaction subject to Rule 13d-3(b);
-
-(iii) There is no agreement among, or between any members of the group to act together with respect to the issuer or its securities except for the purpose of facilitating the specific purchase involved; and
-
-(iv) The only actions among or between any members of the group with respect to the issuer or its securities subsequent to the closing date of the non-public offering are those which are necessary to conclude ministerial matters directly related to the completion of the offer or sale of the securities.
 
 3. **Proposed Exchange Act Rule 3a4-2.  Exemption from the definition of “broker” for a person engaged in a Token transaction.**
 
