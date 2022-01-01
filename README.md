@@ -39,7 +39,6 @@ This is a working draft prepared in a single day as part of LeXpunK working grou
 
 &ensp; &ensp; &ensp; &ensp; (ii)  *Transaction History.*  A narrative description of the steps necessary to independently access, search, and verify the transaction history of the relevant autonomous cryptosystem.   
 
-
 &ensp; &ensp; &ensp; &ensp; (iii)  *Token Economics.*  A narrative description of the purposes and operation of the autonomous cryptotoken and the corresponding autonomous cryptosystem .  At a minimum, such disclosures must include the following:
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  Information explaining the launch and supply process for the autonomous cryptotoken, including the number of autonomous cryptotokens to be issued in an initial allocation, the total number of autonomous cryptotokens to be created, the release schedule for the autonomous cryptotokens, and the total number of autonomous cryptotokens outstanding;
@@ -69,11 +68,17 @@ This is a working draft prepared in a single day as part of LeXpunK working grou
 &ensp; &ensp; &ensp; &ensp; (viii)  *Warning to Token Purchasers.*  A statement that the purchase of autonomous cryptotokens involves a high degree of risk and the potential loss of money. 
 
  **(c)  Filing of Notice of Reliance.**  The Initial Development Team must file a notice of reliance on the safe harbor prior to the date of the first autonomous cryptotoken distributed in reliance on the safe harbor.
+
 &ensp; &ensp; (1)  The notice of reliance must contain the following information:
+
 &ensp; &ensp; &ensp; &ensp; (i)  The name of each Executive Developer;
+
 &ensp; &ensp; &ensp; &ensp; (ii)  Attestation by an Executive Developer that the conditions of this section are satisfied; and
+
 &ensp; &ensp; &ensp; &ensp; (iii)  The website where disclosure required under paragraph (b) may be accessed.
+
 &ensp; &ensp; &ensp; &ensp; (iv)  An email address at which the Initial Development Team can be contacted.
+
 &ensp; &ensp; (2)  A notice of reliance must be filed with the Commission in electronic format through the Commission’s Electronic Data Gathering, Analysis, and Retrieval System (EDGAR) in accordance with EDGAR rules set forth in Regulation S-T.
 
 **(d)  Limitation.**  The exemption provided in paragraph (a) of this section does not apply to the provisions of Section 12(a)(2) or Section 17 of the Securities Act of 1933.
@@ -87,6 +92,7 @@ This is a working draft prepared in a single day as part of LeXpunK working grou
 &ensp; &ensp; (1) *autonomous cryptosystem* means:
 
 &ensp; &ensp; &ensp; &ensp; (a) the combination of a particular autonomous cryptonetwork and an open cryptoledger maintained thereby; or
+
 &ensp; &ensp; &ensp; &ensp; (b) the combination of particular autonomous cryptocode, a particular open cryptoledger on which the autonomous cryptocode is verifiably stored and a particular autonomous cryptonetwork which maintains such open cryptoledger and executes such autonomous cryptocode 
 
 &ensp; &ensp; (2) *autonomous cryptonetwork* means a peer-to-peer network that: (a) consists of computers running open cryptoclients which transmit and receive data among each other over the Internet, execute operations on such data and record such data and the results of such operations on an open cryptoledger; (b) does not depend for its continuing operation or availability on, and is not owned, controlled or arbitrarily modifiable by, any single person or single group of extrinsically affiliated persons; and (c) permits any Internet-connected, consumer-grade computer running the open cryptoclient to obtain an accurate and complete copy of the open cryptoledger and freely transmit messages to and read messages from all other open cryptoclients on such network, in each case, without any permission, authorization, identification or credentialling of such computer or the owner or operator of such computer.
