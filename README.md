@@ -197,4 +197,4 @@ With the benefit of hindsight after engaging in discussions and debates over Com
 
 [__] scour other safe harbor forks for potential good ideas 
 
-[__] include more fulsome description of the public policy goals achieved by autonomous cryptosystems and autonomous cryptotokens
+[__] include more fulsome description of the public policy goals achieved by autonomous cryptosystems and autonomous cryptotokens--some good ideas [here](https://twitter.com/glenweyl/status/1478021789250772995)
