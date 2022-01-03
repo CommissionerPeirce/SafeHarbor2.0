@@ -19,6 +19,8 @@ This is a working draft prepared in a single day as part of LeXpunK working grou
 
 *Rule 195 is not an exclusive safe harbor. A person who does not meet all of the applicable conditions of Rule 195 still may claim any other available exemption under the Securities Act of 1933 for the offer and sale of Tokens.*
 
+---
+
 ***Proposed Rule 195 Text***
 
 **(a)  Exemption.**  Except as expressly provided in paragraph (d) of this section, the Securities Act of 1933 does not apply to any qualifying distribution of an autonomous cryptotoken if the following conditions are satisfied by the Initial Development Team, as defined herein.
@@ -155,6 +157,7 @@ A person shall not be included in the definition of the term “dealer” solely
 
 Issuers shall be exempt from the provisions of section 12(g) of the Act with respect to any autonomous cryptotoken issued in a qualifying distribution in reliance on Rule 195 of the Securities Act of 1933:
 
+---
 
 **Questions and Answers**
 
@@ -162,10 +165,13 @@ Q. Why are the definitions so narrow? They exclude my favorite project because <
 
 A. We realize that good autonomous cryptosystem projects come in many shapes and sizes and have many different (sometimes very gradual) decentralization plans. We feel that a safe harbor needs to have a compelling rationale to be accepted by regulators, legislators and even the general public. Unless the goal is to amend all of securities laws (which might be a worthy goal, but is unlikely to be accomplished in the near future), then we need to carefully explain why certain situations should be subject to different (less strict) rules. The best rationale for this is that the systems are not under the discretionary control of any small group and exist as open-source public digital goods available to all under very trust-minimized conditions. Importantly, because Rule 195 is intended to be a non-exclusive safe harbor, the fact that a particular system or its tokens might not be covered under Rule 195 does NOT entail that a distribution fo such tokens definitely is a securities offering--it merely means that the distribution does not rise to the level of a "qualifying distribution" that *clearly* deserves exemption. 
 
+---
 
 Q. Why aren’t issuances of tokens to the Initial Development Team prior to the autonomous cryptosystem being operational required to comply with the securities laws? 
 
 A. We believe the bona fide builders of an autonomous cryptosystem deserve to receive autonomous cryptotokens for their work, even if they are not “accredited investors.” While private placement exemptions such as Rule 701 could work to place securities into service providers’ hands, the conditions of Rule 701 are too restrictive in the context of building autonomous cryptosystems because: (a) many open-source software teams choose to collaborate on an unincorporated, non-hierarchical basis, and thus there is no “issuer” that they provide services to such that they could qualify to receive a security from that issuer under Rule 701; and (b) many cryptosystems may be developed on a joint-venture-like basis involving multiple development studios, code audit firms, and other types of business entities working in the field of autonomous cryptosystems, and business entities are generally not eligible to receive securities pursuant Rule 701. Moreover, members of the Initial Development Team will typically be fully informed about the risks and rewards of the autonomous cryptosystem and autonomous cryptotokens, have significant influence over their design and exert a significant part of the essential efforts required for their development—thus, the Initial Development Team does not need the protection of the securities laws with respect to their decision to trade labor for autonomous cryptotokens, similar to how the “knowledgeable employees” of an issuer are typically treated as being accredited investors in connection with that issuer’s own securities. 
+
+---
 
 Q. How does this proposal differ from SEC Commissioner Hester Peirce’s proposed Rule 195 Safe Harbor 2.0?  
 
@@ -185,9 +191,13 @@ With the benefit of hindsight after engaging in discussions and debates over Com
 
 &ensp; &ensp; (c)	Requiring that the initial development team be subject to a minimum 12-month post-public-launch lockup of their autonomous cryptotokens, which prohibits not only literal transfers of the token but also any divestiture of the rights or benefits or risks of ownership of the autonomous cryptotokens. This mirrors the 12-month holding period applicable to “restricted securities” under Rule 144. As a side note, we would hope that the absence of control over the autonomous cryptosystem by the initial development team moots the need for the autonomous cryptotokens to have “control securities” status under Rule 144--though this proposal is agnostic on that issue. 
 
+---
+
 Q. I noticed that "qualifying distributions" do not seem cover *sales* of tokens by the initial development team (whether to the public or on the private market). What is the thinking here? If there is no exemption for team token sales, how will they ever sell their tokens in compliance with securities laws? 
 
 A. Correct. By design, "qualifying distributions" do not include any *sales* of tokens by the initial development team. Consistent with the functionalist-minded, transaction-by-transaction approach with which the proposal has been drafted (as discussed above), we feel that sales of tokens by the development team raise heightened policy concerns as compared to free distributions of tokens to users and builders. Therefore, to increase the chances of regulatory or legislative acceptance of this proposal, we are leaving open the possibility that sales of tokens by the development team could constitute securities transactions, which would either require registration or a separate exemption. Whether such sales are securities transactions, and, if so, what exemptions or registration options would be available for such sales, will be a facts-and-circumstances analysis. 
+
+---
 
 **Definite and Possible To-Dos For Refinement of this Proposal:** 
 
