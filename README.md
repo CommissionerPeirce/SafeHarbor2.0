@@ -1,4 +1,4 @@
-test PR
+test PR for typos edit 
 
 # SafeHarbor X 
 Potential Proposed Securities Act Rule 195. Exemption for Qualifying Distributions of Autonomous Cryptotokens.
