@@ -207,7 +207,7 @@ A. Correct. By design, "qualifying distributions" do not include any *sales* of 
 
 [__] potentially tighten up language/substance around the meaning of control by the initial development team (right now has lazy text about "control of a majority of economic benefits or voting power")--think about total supply vs. circulating supply vs. votable supply and potentially refine the standard around that 
 
-[__] consider being even more liberal and allowing a 3-month grace period to become fully decentralized, and thus adding back something like the "network maturity" and "exit report" standards from Peirce's safe harbor (it is my observation that most developers are very uncomfortable being decentralized from day 1, for both security-oriented reasons and practical time-to-market reasons) ...OTOH, maybe those things can be addressed by delaying token distribution until after the system has been live for a while
+[__] consider allowing a 3-month grace period to become fully decentralized, and thus adding back something like the "network maturity" and "exit report" standards from Peirce's safe harbor (it is my observation that most developers are very uncomfortable being decentralized from day 1, for both security-oriented reasons and practical time-to-market reasons) ...OTOH, maybe those things can be addressed by delaying token distribution until after the system has been live for a while
 
 [__] scour other safe harbor forks for potential good ideas 
 
