@@ -45,7 +45,7 @@ This is a working draft prepared in a single day as part of LeXpunK working grou
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  Information explaining the launch and supply process for the autonomous cryptotoken, including the number of autonomous cryptotokens to be issued in an initial allocation, the total number of autonomous cryptotokens to be created, the release schedule for the autonomous cryptotokens, and the total number of autonomous cryptotokens outstanding;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  Information detailing the method of generating, mining (and, if applicable, staking, locking or burning) autonomous cryptotokens and, if the corresponding autonomous cryptosystem is of the kind described in paragraph (g)(1)(a), the process for validating transactions and the consensus mechanism for such autonomous cryptosystem;
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  Information detailing the method of generating, mining (and, if applicable, staking, locking or burning) autonomous cryptotokens and, if the corresponding autonomous cryptosystem is of the kind described in paragraph (g)(1)(a), the process for validating transactions within, and the consensus mechanism for, such autonomous cryptosystem;
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  An explanation of governance mechanisms for implementing changes to the autonomous cryptosystem; 
 
