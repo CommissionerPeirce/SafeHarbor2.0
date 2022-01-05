@@ -7,7 +7,7 @@ Potential Proposed Securities Act Rule 195. Exemption for Qualifying Distributio
 
 ***Prolegomena to Preliminary Notes:***
 
-This is a working draft prepared in a single day as part of LeXpunK working group. At this point, it is just a strawman and everything is still very subject to rethinking and revision. A non-exclusive list of mixed definite and possible to-dos is appended to the end of the document.  
+This is a working draft (initially prepared in a single day as part of LeXpunK working group). At this point, it is just a strawman and everything is still very subject to rethinking and revision. A non-exclusive list of mixed definite and possible to-dos is appended to the end of the document.  
 
 ***Preliminary Notes:***
 
