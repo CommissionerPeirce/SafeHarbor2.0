@@ -23,17 +23,17 @@ This is a working draft (initially prepared in a single day as part of LeXpunK w
 
 ***Proposed Rule 195 Text***
 
-**(a)  Exemption.**  Except as expressly provided in paragraph (d) of this section, the Securities Act of 1933 does not apply to any qualifying distribution of an autonomous cryptotoken if the following conditions are satisfied by the Initial Development Team, as defined herein.
+**(a)  Exemption.**  Except as expressly provided in paragraph '(d)' of this section, the Securities Act of 1933 does not apply to any qualifying distribution of an autonomous cryptotoken if the following conditions are satisfied by the Initial Development Team, as defined herein.
 
-&ensp; &ensp; (1) The disclosures required under paragraph (b) of this section are made continuously available by the Initial Development Team on a freely accessible public website.
+&ensp; &ensp; (1) The disclosures required under paragraph '(b)' of this section are made continuously available by the Initial Development Team on a freely accessible public website.
 
 &ensp; &ensp; (2)  The qualifying distribution of the autonomous cryptotoken is offered and effected for the purpose of facilitating access to, participation on, or the development of the relevant autonomous cryptosystem.
 
-&ensp; &ensp; (3)  The Initial Development Team files a notice of reliance in accordance with paragraph (c) of this section.
+&ensp; &ensp; (3)  The Initial Development Team files a notice of reliance in accordance with paragraph '(c)' of this section.
 
-&ensp; &ensp; (4)  The autonomous cryptotokens beneficially owned or controlled by the initial development team, its members and, to the extent known by the initial development team, any of their respective related persons (and all rights, benefits and powers with respect thereto) are not directly or indirectly sold or transferred (except without additional consideration from the initial development team or its members to their respective related persons) for a period of at least 12 months from the date of the first public qualifying distribution of the autonomous cryptotokens pursuant to clause ‘(a)’ of the definition of “qualifying distribution” set forth in paragraph (g)(8) of this section. 
+&ensp; &ensp; (4)  The autonomous cryptotokens beneficially owned or controlled by the initial development team, its members and, to the extent known by the initial development team, any of their respective related persons (and all rights, benefits and powers with respect thereto) are not directly or indirectly sold or transferred (except without additional consideration from the initial development team or its members to their respective related persons) for a period of at least 12 months from the date of the first public qualifying distribution of the autonomous cryptotokens pursuant to clause ‘(a)’ of the definition of “qualifying distribution” set forth in paragraph '(g)(8)' of this section. 
 
-**(b)  Disclosure.**  The Initial Development Team must provide the information described below on a freely accessible public website.  Such information must be updated within five business days of a material change of such information; provided, however, that the information described in subparagraph (1) will be deemed automatically amended by any public updates made to a code repository which was identified by and deemed to be automatically incorporated by reference into the existing disclosure.  
+**(b)  Disclosure.**  The Initial Development Team must provide the information described below on a freely accessible public website.  Such information must be updated within five business days of a material change of such information; provided, however, that the information described in under paragraph '(a)(1)' of this section will be deemed automatically amended by any public updates made to a code repository which was identified by and deemed to be automatically incorporated by reference into the existing disclosure.  
 
 &ensp; &ensp; (1)  *Initial Disclosures.*  Prior to filing a notice of reliance on the safe harbor, provide the following information.  Any material changes to the information required below must be provided on the same freely accessible public website as soon as reasonably practicable after the change.
 
@@ -45,13 +45,13 @@ This is a working draft (initially prepared in a single day as part of LeXpunK w
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  Information explaining the launch and supply process for the autonomous cryptotoken, including the number of autonomous cryptotokens to be issued in an initial allocation, the total number of autonomous cryptotokens to be created, the release schedule for the autonomous cryptotokens, and the total number of autonomous cryptotokens outstanding;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  Information detailing the method of generating, mining (and, if applicable, staking, locking or burning) autonomous cryptotokens and, if the corresponding autonomous cryptosystem is of the kind described in paragraph (g)(1)(a), the process for validating transactions within, and the consensus mechanism for, such autonomous cryptosystem;
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  Information detailing the method of generating, mining (and, if applicable, staking, locking or burning) autonomous cryptotokens and, if the corresponding autonomous cryptosystem is of the kind described in paragraph '(g)(1)(a)' of this section, the process for validating transactions within, and the consensus mechanism for, such autonomous cryptosystem;
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  An explanation of governance mechanisms for implementing changes to the autonomous cryptosystem; 
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (D)  If the corresponding autonomous cryptosystem is of the kind described in paragraph (g)(1)(a), sufficient information for a third party to create a tool for verifying the transaction history of the autonomous cryptotoken (e.g., the blockchain or distributed ledger); and
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (D)  If the corresponding autonomous cryptosystem is of the kind described in paragraph '(g)(1)(a)' of this section, sufficient information for a third party to create a tool for verifying the transaction history of the autonomous cryptotoken (e.g., the blockchain or distributed ledger); and
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (E)  A hyperlink to a block explorer for the relevant autonomous cryptosystem of the kind described in paragraph (g)(1)(a).
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (E)  A hyperlink to a block explorer for the relevant autonomous cryptosystem of the kind described in paragraph '(g)(1)(a)' of this section.
 
 &ensp; &ensp; &ensp; &ensp; (iv)  *Prior Token Sales.*  The date of sale, number of autonomous cryptotokens sold prior to filing a notice of reliance on the safe harbor, any limitations or restrictions on the transferability of autonomous cryptotokens sold, and the type and amount of consideration received.
 
@@ -65,13 +65,13 @@ This is a working draft (initially prepared in a single day as part of LeXpunK w
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (D)  Copies of all material agreements between or among any one or more of the initial development team, any of its members or,to the extent known to the initial development team, any of their respective related persons, in each case, which relate in any material respect to the autonomous cryptosystem or autonomous cryptotokens.
 
-&ensp; &ensp; &ensp; &ensp; (vi)  *Sales of Tokens by Initial Development Team.*  Each time an Executive Developer sells five percent of his or her autonomous cryptotokens as disclosed pursuant to paragraph (b)(1)(v)(B) of this section over any period of time, state, within 4 business days after the consummation of such sale, the date(s) of the sale, the number of autonomous cryptotokens sold, and the identity of the seller.   
+&ensp; &ensp; &ensp; &ensp; (vi)  *Sales of Tokens by Initial Development Team.*  Each time an Executive Developer sells five percent of his or her autonomous cryptotokens as disclosed pursuant to paragraph '(b)(1)(v)(B)' of this section over any period of time, state, within 4 business days after the consummation of such sale, the date(s) of the sale, the number of autonomous cryptotokens sold, and the identity of the seller.   
 
 &ensp; &ensp; &ensp; &ensp; (vii)  *Related Person Transactions.*  A description of any actual or proposed material transaction relating in any material respect to the autonomous cryptosystem or autonomous cryptotokens in which the initial development team or any member thereof is a participant and in which, to the extent known by the initial development team, any of their respective related persons had or will have a direct or indirect material interest.  The description should identify the nature of the transaction, the related person, the basis on which the person is a related person, and the approximate value of the amount involved in the transaction.  
 
 &ensp; &ensp; &ensp; &ensp; (viii)  *Warning to Token Purchasers.*  A statement that the purchase of autonomous cryptotokens involves a high degree of risk and the potential loss of money. 
 
- **(c)  Filing of Notice of Reliance.**  The Initial Development Team must file a notice of reliance on the safe harbor prior to the date of the first public qualifying distribution of the autonomous cryptotokens pursuant to clause ‘(a)’ of the definition of “qualifying distribution” set forth in paragraph (g)(8) of this section.
+ **(c)  Filing of Notice of Reliance.**  The Initial Development Team must file a notice of reliance on the safe harbor prior to the date of the first public qualifying distribution of the autonomous cryptotokens pursuant to clause ‘(a)’ of the definition of “qualifying distribution” set forth in paragraph '(g)(8)' of this section.
 
 &ensp; &ensp; (1)  The notice of reliance must contain the following information:
 
@@ -79,15 +79,15 @@ This is a working draft (initially prepared in a single day as part of LeXpunK w
 
 &ensp; &ensp; &ensp; &ensp; (ii)  Attestation by an Executive Developer that the conditions of this section are satisfied; and
 
-&ensp; &ensp; &ensp; &ensp; (iii)  The website where disclosure required under paragraph (b) may be accessed.
+&ensp; &ensp; &ensp; &ensp; (iii)  The website where disclosure required under paragraph '(b)' of this section may be accessed.
 
 &ensp; &ensp; &ensp; &ensp; (iv)  An email address at which the Initial Development Team can be contacted.
 
 &ensp; &ensp; (2)  A notice of reliance must be filed with the Commission in electronic format through the Commission’s Electronic Data Gathering, Analysis, and Retrieval System (EDGAR) in accordance with EDGAR rules set forth in Regulation S-T.
 
-**(d)  Limitation.**  The exemption provided in paragraph (a) of this section does not apply to the provisions of Section 12(a)(2) or Section 17 of the Securities Act of 1933.
+**(d)  Limitation.**  The exemption provided in paragraph '(a)' of this section does not apply to the provisions of Section 12(a)(2) or Section 17 of the Securities Act of 1933.
 
-**(e)  Definition of Qualified Purchaser.**  For purposes of Section 18(b)(3) of the Securities Act of 1933, a “qualified purchaser” includes any person to whom autonomous cryptotokens are offered or distributed in a qualifying distribution in reliance on paragraph (a) of this section.
+**(e)  Definition of Qualified Purchaser.**  For purposes of Section 18(b)(3) of the Securities Act of 1933, a “qualified purchaser” includes any person to whom autonomous cryptotokens are offered or distributed in a qualifying distribution in reliance on paragraph '(a)' of this section.
 
 **(f)  Disqualifications.**  No exemption under this section is available for the autonomous cryptotokens of any Initial Development Team if it or its Executive Developers would be subject to disqualification under Rule 506(d).
 
@@ -127,19 +127,19 @@ This is a working draft (initially prepared in a single day as part of LeXpunK w
 
 &ensp; &ensp; (8) *qualifying distribution* means: 
 
-&ensp; &ensp; &ensp; &ensp; (a) the public distribution of any autonomous cryptotokens, in one or a series of transactions, over any period of time after the corresponding autonomous cryptosystem described in paragraph 6(c) has become publicly operational, to: 
+&ensp; &ensp; &ensp; &ensp; (a) the public distribution of any autonomous cryptotokens, in one or a series of transactions, over any period of time after the corresponding autonomous cryptosystem described in paragraph '6(c)' of this section has become publicly operational, to: 
 
 &ensp; &ensp; &ensp; &ensp;&ensp;&ensp; (1) any users of the autonomous cryptosystem, solely in exchange for or recognition of using the autonomous cryptosystem in one or more transactions or continuously during a designated period of time; 
 
-&ensp; &ensp; &ensp; &ensp;&ensp;&ensp; (2) if the corresponding autonomous cryptosystem is of the type described in paragraph 1(b), to users of the autonomous cryptosystem of the type described in paragraph 1(a) on which the corresponding autonomous cryptosystem is stored and executed, solely in recognition of historical use of the autonomous cryptosystem of the type described in paragraph 1(a); or 
+&ensp; &ensp; &ensp; &ensp;&ensp;&ensp; (2) if the corresponding autonomous cryptosystem is of the type described in paragraph '1(b)' of this section, to users of the autonomous cryptosystem of the type described in paragraph '1(a)' of this section on which the corresponding autonomous cryptosystem is stored and executed, solely in recognition of historical use of the autonomous cryptosystem of the type described in paragraph '1(a)' of this section; or 
 
 &ensp; &ensp; &ensp; &ensp;&ensp;&ensp; (3) an autonomous cryptotreasury controlled by holders of the autonomous cryptotokens; or 
 
-&ensp; &ensp; &ensp; &ensp; (b) the private distribution of any autonomous cryptotokens, in one or a series of transactions over any period of time before the corresponding autonomous cryptosystem described in paragraph 6(c) has become publicly operational, to members of the initial development team, provided that: (1) the percentage of the total possible maximum supply of the autonomous cryptotokens to the initial development team and all its members does not exceed 30% in the aggregate or 5% to any member; (2) within 30 days of the autonomous cryptosystem becoming operational, the initial development team and its members collectively do not beneficially hold or control a majority of the economic benefits or voting powers associated with the autonomous cryptotoken (excluding any such tokens held in the autonomous cryptotreasury). 
+&ensp; &ensp; &ensp; &ensp; (b) the private distribution of any autonomous cryptotokens, in one or a series of transactions over any period of time before the corresponding autonomous cryptosystem described in paragraph '6(c)' of this section has become publicly operational, to members of the initial development team, provided that: (1) the percentage of the total possible maximum supply of the autonomous cryptotokens to the initial development team and all its members does not exceed 30% in the aggregate or 5% to any member; (2) within 30 days of the autonomous cryptosystem becoming operational, the initial development team and its members collectively do not beneficially hold or control a majority of the economic benefits or voting powers associated with the autonomous cryptotoken (excluding any such tokens held in the autonomous cryptotreasury). 
 
-&ensp; &ensp; &ensp; For the avoidance of doubt, for a distribution of cryptotokens to constitute a qualifying distribution under clause ‘(a)’ of this paragraph (8), neither the initial development team nor any of their respective related persons, may be paid any sale proceeds or capital by users of the autonomous cryptosystem as consideration for distribution of the autonomous cryptotokens; instead, users must be entitled to receive the autonomous cryptotokens solely as a result of their use of their post-operational use of the corresponding autonomous cryptosystem or their historical pre-operational use of the autonomous cryptosystem on which the first autonomous cryptosystem is stored and operated.  
+&ensp; &ensp; &ensp; For the avoidance of doubt, for a distribution of cryptotokens to constitute a qualifying distribution under clause ‘(a)’ of this paragraph '(8)' of this section, neither the initial development team nor any of their respective related persons, may be paid any sale proceeds or capital by users of the autonomous cryptosystem as consideration for distribution of the autonomous cryptotokens; instead, users must be entitled to receive the autonomous cryptotokens solely as a result of their use of their post-operational use of the corresponding autonomous cryptosystem or their historical pre-operational use of the autonomous cryptosystem on which the first autonomous cryptosystem is stored and operated.  
 
-&ensp; &ensp; (9)  *initial development team*  means any person, group of persons, or entity that provides the essential managerial efforts for the development of the network prior to the first public qualifying distribution of the autonomous cryptotokens pursuant to clause ‘(a)’ of the definition of “qualifying distribution” set forth in paragraph (g)(8) of this section and makes the initial filing of a notice of reliance on this safe harbor and a *member* of an initial development team means any person, group of persons or entity that provides services to or with the initial development team.
+&ensp; &ensp; (9)  *initial development team*  means any person, group of persons, or entity that provides the essential managerial efforts for the development of the network prior to the first public qualifying distribution of the autonomous cryptotokens pursuant to clause ‘(a)’ of the definition of “qualifying distribution” set forth in paragraph '(g)(8)' of this section of this section and makes the initial filing of a notice of reliance on this safe harbor and a *member* of an initial development team means any person, group of persons or entity that provides services to or with the initial development team.
 
 &ensp; &ensp; (10)  *related person* means with respect to any person, any affiliate or immediate family member of such person. 
 
