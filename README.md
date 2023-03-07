@@ -7,7 +7,9 @@ Potential Proposed Securities Act Rule 195. Exemption for Qualifying Distributio
 
 ***Prolegomena to Preliminary Notes:***
 
-This is a working draft (initially prepared in a single day as part of LeXpunK working group). At this point, it is just a strawman and everything is still very subject to rethinking and revision. A non-exclusive list of mixed definite and possible to-dos is appended to the end of the document.  
+This is a working draft (initially prepared in a single day as part of LeXpunK working group). At this point, it is just a strawman and everything is still very subject to rethinking and revision. A non-exclusive list of mixed definite and possible to-dos is appended to the end of the document.
+
+Safe Harbor X is intended to be complementary to LeXpunk's [Regulation X](https://github.com/LeXpunK-Army/Reg-X-Proposal-An-Exempt-Offering-Framework-for-Token-Issuances). Regulation X would cover token issuances that do *not* fall under the stringent criteria for the safe harbor. 
 
 ***Preliminary Notes:***
 
